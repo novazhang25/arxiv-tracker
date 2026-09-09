@@ -4,20 +4,25 @@ import xml.etree.ElementTree as ET
 import re
 from datetime import datetime
 
-# 1. Primary Category Scope
+# Primary Category Scope
 CATEGORIES = 'cat:physics.chem-ph OR cat:quant-ph'
 
-# 2. Strict keywords for local post-filtering (Case-Insensitive)
+# Updated strict keywords based on your latest research focus (Case-Insensitive)
 MUST_MATCH_KEYWORDS = [
-    r'\bCI\b', r'configuration interaction', r'PT2', r'CASPT2', r'NEPT2', 
-    r'multireference', r'GPU', r'QML', r'quantum machine learning', 
-    r'electronic structure', r'tensor network', r'DMRG'
+    r'quantum chemistry', 
+    r'\bNISQ\b', 
+    r'\bVQE\b', 
+    r'quantum variational', 
+    r'quantum computing', 
+    r'\bQML\b', 
+    r'quantum machine learning', 
+    r'electronic structure'
 ]
 
-URL = f'http://export.arxiv.org/api/query?search_query={urllib.parse.quote(CATEGORIES)}&sortBy=submittedDate&sortOrder=descending&max_results=50'
+URL = f'http://export.arxiv.org/api/query?search_query={urllib.parse.quote(CATEGORIES)}&sortBy=submittedDate&sortOrder=descending&max_results=60'
 
 def is_relevant(text):
-    """Check if the title/abstract contains at least one target keyword."""
+    """Check if the title or abstract contains at least one target keyword."""
     for pattern in MUST_MATCH_KEYWORDS:
         if re.search(pattern, text, re.IGNORECASE):
             return True
@@ -42,7 +47,7 @@ def fetch_arxiv():
         published = entry.find('atom:published', ns).text[:10]
         summary = entry.find('atom:summary', ns).text.strip().replace('\n', ' ')
         
-        # Local strict filter
+        # Local strict filter against title and abstract
         full_text = f"{title} {summary}"
         if not is_relevant(full_text):
             continue
@@ -69,7 +74,7 @@ if __name__ == '__main__':
     today = datetime.now().strftime('%B %d, %Y')
     
     header = f"# 🚀 Daily arXiv Tracker ({today})\n\n" \
-             f"> Focus: Quantum Chemistry / CI / PT2 / GPU Acceleration / QML\n\n"
+             f"> Focus: Quantum Chemistry / NISQ / VQE / Quantum Computing / QML / Electronic Structure\n\n"
     
     if papers:
         content = header + "\n---\n\n".join(papers)
