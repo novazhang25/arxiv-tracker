@@ -1,0 +1,29 @@
+name: Daily arXiv Fetcher
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  
+  workflow_dispatch:     
+
+jobs:
+  fetch-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run script
+        run: python fetch_papers.py
+
+      - name: Commit and push updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Auto update daily arXiv papers [$(date +'%Y-%m-%d')]" || exit 0
+          git push
