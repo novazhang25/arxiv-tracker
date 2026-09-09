@@ -3,7 +3,7 @@ import urllib.parse
 import xml.etree.ElementTree as ET
 from datetime import datetime
 
-# 涵盖 CI/PT2/GPU/QML 交叉方向的逻辑检索表达式
+# Logical query covering Quantum Chemistry / CI / PT2 / GPU Acceleration / QML
 QUERY = '(cat:physics.chem-ph OR cat:quant-ph OR cat:cs.LG OR cat:physics.comp-ph) AND ' \
         '(ti:"configuration interaction" OR ti:"PT2" OR ti:"CASPT2" OR ti:"NEPT2" OR ' \
         'abs:"GPU" OR abs:"quantum machine learning" OR abs:"QML" OR abs:"electronic structure")'
@@ -28,31 +28,34 @@ def fetch_arxiv():
         link = entry.find('atom:id', ns).text.strip()
         published = entry.find('atom:published', ns).text[:10]
         
-        # 提取作者
-        authors = [a.find('atom:name', ns).text for a in entry.findall('atom:author', ns)]
-        author_str = ", ".join(authors[:3]) + (" 等" if len(authors) > 3 else "")
+        # PDF link extraction
+        pdf_link = link.replace('/abs/', '/pdf/') + ".pdf"
         
-        # 提取摘要
+        # Extract authors
+        authors = [a.find('atom:name', ns).text for a in entry.findall('atom:author', ns)]
+        author_str = ", ".join(authors[:3]) + (" et al." if len(authors) > 3 else "")
+        
+        # Extract summary
         summary = entry.find('atom:summary', ns).text.strip().replace('\n', ' ')
         
         papers.append(
             f"### [{title}]({link})\n"
-            f"* **发表日期**: `{published}` | **作者**: {author_str}\n"
-            f"* **摘要**: {summary[:350]}...\n"
+            f"* **Date**: `{published}` | **Authors**: {author_str} | [[PDF]]({pdf_link})\n"
+            f"* **Abstract**: {summary[:350]}...\n"
         )
     return papers
 
 if __name__ == '__main__':
     papers = fetch_arxiv()
-    today = datetime.now().strftime('%Y-%m-%d')
+    today = datetime.now().strftime('%B %d, %Y')
     
-    header = f"# 🚀 arXiv 定向论文日报 ({today})\n\n" \
-             f"> 覆盖方向：量子化学 / CI / PT2 / GPU 加速 / QML\n\n"
+    header = f"# 🚀 Daily arXiv Tracker ({today})\n\n" \
+             f"> Focus: Quantum Chemistry / CI / PT2 / GPU Acceleration / QML\n\n"
     
     if papers:
         content = header + "\n---\n\n".join(papers)
     else:
-        content = header + "今日未检索到符合条件的最新论文。\n"
+        content = header + "No relevant papers found today.\n"
     
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(content)
