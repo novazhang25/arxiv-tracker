@@ -1,37 +1,37 @@
-# 🚀 Daily arXiv Tracker (October 08, 2026)
+# 🚀 Daily arXiv Tracker (October 09, 2026)
 
 > Focus: Quantum Chemistry / NISQ / VQE / Quantum Computing / QML / Electronic Structure
 
-### [Benchmarking Modular Optimization Strategies for Parameterized Quantum Circuits](http://arxiv.org/abs/2610.10254v1)
-* **Date**: `2026-10-07` | **Authors**: Carla Cotea, Stefan Balauca, Andreea Arusoaie | [[PDF]](http://arxiv.org/pdf/2610.10254v1.pdf)
-* **Abstract**: Training parameterized quantum circuits requires balancing optimization progress with limited evaluation budgets and the statistical uncertainty of near-term quantum hardware. We present a modular benchmarking framework that separates quantum search-direction estimation from classical parameter-update rules, allowing their interactions and sensitiv...
+### [Entanglement entropy and magic of ZX-diagrams](http://arxiv.org/abs/2610.12447v1)
+* **Date**: `2026-10-08` | **Authors**: Marcin Szyniszewski, Razin A. Shaikh, Aleks Kissinger | [[PDF]](http://arxiv.org/pdf/2610.12447v1.pdf)
+* **Abstract**: Entanglement and non-stabilizerness are complementary resources underlying the complexity of quantum states, yet extracting either quantity from large quantum circuits generally requires exponentially scaling resources. In diagrammatic approaches to quantum computation, such as the ZX-calculus, both quantities likewise typically require expensive t...
 
 ---
 
-### [Tradeoff between Wigner negativity and decoherence time for cubic Gaussian states](http://arxiv.org/abs/2610.10073v1)
-* **Date**: `2026-10-07` | **Authors**: Matthieu Arnhem, Valerio Crescimanna, Giuseppe Patera et al. | [[PDF]](http://arxiv.org/pdf/2610.10073v1.pdf)
-* **Abstract**: Wigner negativity has been shown to be a resource in quantum computing, raising the question of how to efficiently produce states with a large Wigner negativity. Cubic Gaussian states, obtained when a cubic gate is applied to a Gaussian state, have been proposed as candidates for this purpose. We show that cubic Gaussian states with a large Wigner ...
+### [Measure Now, Mitigate Later: Virtual Error Cancellation for Logical Quantum Circuits](http://arxiv.org/abs/2610.12400v1)
+* **Date**: `2026-10-08` | **Authors**: Oles Shtanko, Saswata Roy, Shashwat Kumar et al. | [[PDF]](http://arxiv.org/pdf/2610.12400v1.pdf)
+* **Abstract**: Early fault-tolerant quantum algorithms are a key step in scalable quantum computing, but are ultimately constrained by residual, uncorrectable logical errors. Logical quantum error mitigation can eliminate this bias, however its standard requirements include prior noise characterization, more complex experiments, and substantial sampling overhead....
 
 ---
 
-### [Efficient detection of spectral cluster states](http://arxiv.org/abs/2610.09745v1)
-* **Date**: `2026-10-07` | **Authors**: M. Kalash, U. -N. Han, C. Roh et al. | [[PDF]](http://arxiv.org/pdf/2610.09745v1.pdf)
-* **Abstract**: Multimode entangled states of light are key resources for high-dimensional photonic quantum technologies, particularly for continuous-variable quantum computing and quantum information processing. Exploiting their full capabilities requires detection strategies that can efficiently and simultaneously access a large number of modes and their quantum...
+### [Quantum Co-Design of Inhomogeneous Many-Body Neutrino Fast Flavor Transformation](http://arxiv.org/abs/2610.12334v1)
+* **Date**: `2026-10-08` | **Authors**: Zoha Laraib, Sherwood Richers, Alessandro Baroni et al. | [[PDF]](http://arxiv.org/pdf/2610.12334v1.pdf)
+* **Abstract**: Dense-neutrino flavor evolution is a quantum many-body problem whose fully correlated treatment becomes rapidly more expensive with increasing particle number and spatial structure. We develop a \texttt{QCNO} quantum simulation code that maps a inhomogeneous forward-scattering neutrino Hamiltonian with advection and finite-range interactions to TEB...
 
 ---
 
-### [Exploring topology via momentum-selective tomography](http://arxiv.org/abs/2610.09673v1)
-* **Date**: `2026-10-07` | **Authors**: Sainan Huai, Ling Lin, Kunliang Bu et al. | [[PDF]](http://arxiv.org/pdf/2610.09673v1.pdf)
-* **Abstract**: Identifying and measuring topological invariants remains a fundamental challenge due to the non-local nature of momentum eigenstates in real space. Established approaches based on Bloch oscillations, quantum walks, charge pumping and quench dynamics, typically fail to provide direct momentum-dependent geometric information of each Bloch state. Here...
+### [MERCE: Method-Space Correlation Energy Extrapolation toward High-Rank Coupled Cluster Accuracy](http://arxiv.org/abs/2610.12315v1)
+* **Date**: `2026-10-08` | **Authors**: Mateusz Witkowski, Szymon Śmiga, Pavlo O. Dral et al. | [[PDF]](http://arxiv.org/pdf/2610.12315v1.pdf)
+* **Abstract**: Energy extrapolation is a well-established strategy for approaching quantum-chemical limits without performing prohibitively expensive calculations. Complete basis set extrapolation is widely used, whereas extrapolation across electronic structure methods remains much less developed. Method-Space Effective-Rank Correlation Energy Extrapolation (MER...
 
 ---
 
-### [Q-PhotoMarket: A Design Space Exploration Framework for Photonic Hybrid Quantum Neural Networks in Financial Market Prediction](http://arxiv.org/abs/2610.09641v1)
-* **Date**: `2026-10-07` | **Authors**: Alberto Marchisio, Hanzalah Mohamed Siraj, Muhammad Kashif et al. | [[PDF]](http://arxiv.org/pdf/2610.09641v1.pdf)
-* **Abstract**: Photonic quantum computing has recently emerged as a promising platform for hybrid quantum machine learning due to its native realization of linear-optical circuits and the computational complexity of boson sampling. However, despite growing interest in quantum methods for finance, the influence of photonic circuit design choices on predictive perf...
+### [Large-Scale Benchmarking of Quantum Neural Network Configurations for Financial Time Series Forecasting](http://arxiv.org/abs/2610.12148v1)
+* **Date**: `2026-10-08` | **Authors**: Jack Waller, Xing Liang, Dimitrios Makris et al. | [[PDF]](http://arxiv.org/pdf/2610.12148v1.pdf)
+* **Abstract**: Quantum machine learning, and quantum neural networks (QNNs) in particular, are advancing fields with growing potential. Although systematic comparisons of QNN configurations have been explored primarily for classification tasks, comparatively little attention has been given to regression problems, particularly financial time series forecasting. Th...
 
 ---
 
-### [Quantum anomaly detection in real scarce data](http://arxiv.org/abs/2610.09635v1)
-* **Date**: `2026-10-07` | **Authors**: Emanuele Casciaro, Fabio Mascherpa, Alfonso Amendola et al. | [[PDF]](http://arxiv.org/pdf/2610.09635v1.pdf)
-* **Abstract**: Anomaly detection on small and unbalanced datasets remains very challenging in machine learning, although this scenario is common in several domains, including healthcare, cybersecurity, finance, and energy. Data augmentation and generative AI may mitigate training-data scarcity, but they often fall short because anomalies are, by definition, unpre...
+### [Beyond QAOA: A Review of AI and Quantum Computing for Adaptive Combinatorial Optimization](http://arxiv.org/abs/2610.11759v1)
+* **Date**: `2026-10-08` | **Authors**: Hoong Chuin LAU | [[PDF]](http://arxiv.org/pdf/2610.11759v1.pdf)
+* **Abstract**: Near-term quantum approaches to combinatorial optimization are limited by qubit counts, circuit fidelity, sampling cost, and the difficulty of encoding constraints, while machine learning is increasingly used to configure and control quantum optimization workflows. We call such workflows adaptive: decisions conventionally fixed in advance, from for...
