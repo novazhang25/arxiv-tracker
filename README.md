@@ -1,37 +1,49 @@
-# 🚀 Daily arXiv Tracker (October 11, 2026)
+# 🚀 Daily arXiv Tracker (October 12, 2026)
 
 > Focus: Quantum Chemistry / NISQ / VQE / Quantum Computing / QML / Electronic Structure
 
-### [Entanglement entropy and magic of ZX-diagrams](http://arxiv.org/abs/2610.12447v1)
-* **Date**: `2026-10-08` | **Authors**: Marcin Szyniszewski, Razin A. Shaikh, Aleks Kissinger | [[PDF]](http://arxiv.org/pdf/2610.12447v1.pdf)
-* **Abstract**: Entanglement and non-stabilizerness are complementary resources underlying the complexity of quantum states, yet extracting either quantity from large quantum circuits generally requires exponentially scaling resources. In diagrammatic approaches to quantum computation, such as the ZX-calculus, both quantities likewise typically require expensive t...
+### [An Annealing-based Quantum Neural Network with Discrete Wavelet Transforms for Enhanced Air Pollution Nowcasting](http://arxiv.org/abs/2610.13882v1)
+* **Date**: `2026-10-09` | **Authors**: Otto Menegasso Pires, André Saimon, Daniela Herrmann et al. | [[PDF]](http://arxiv.org/pdf/2610.13882v1.pdf)
+* **Abstract**: Air pollution poses a significant threat to public health, exacerbated by the rapid industrialization and urbanization of modern society. While traditional deep learning offers predictive capabilities, recent advancements in quantum machine learning (QML) present a compelling alternative. Here, we introduce a scalable hybrid framework that integrat...
 
 ---
 
-### [Measure Now, Mitigate Later: Virtual Error Cancellation for Logical Quantum Circuits](http://arxiv.org/abs/2610.12400v1)
-* **Date**: `2026-10-08` | **Authors**: Oles Shtanko, Saswata Roy, Shashwat Kumar et al. | [[PDF]](http://arxiv.org/pdf/2610.12400v1.pdf)
-* **Abstract**: Early fault-tolerant quantum algorithms are a key step in scalable quantum computing, but are ultimately constrained by residual, uncorrectable logical errors. Logical quantum error mitigation can eliminate this bias, however its standard requirements include prior noise characterization, more complex experiments, and substantial sampling overhead....
+### [Diversity-Aware Ensemble of Quantum-Classical Models via Combinatorial Fusion](http://arxiv.org/abs/2610.13808v1)
+* **Date**: `2026-10-09` | **Authors**: Jingyan Xu, Yuanhong Wu, Samuel Yen-Chi Chen et al. | [[PDF]](http://arxiv.org/pdf/2610.13808v1.pdf)
+* **Abstract**: Variational quantum circuits (VQCs) are highly sensitive to circuit architecture, yet most quantum machine learning pipelines select a single best design and discard the remaining candidates. This paper addresses whether the structural diversity across quantum circuit search spaces can be used to produce stronger predictions through model fusion. W...
 
 ---
 
-### [Quantum Co-Design of Inhomogeneous Many-Body Neutrino Fast Flavor Transformation](http://arxiv.org/abs/2610.12334v1)
-* **Date**: `2026-10-08` | **Authors**: Zoha Laraib, Sherwood Richers, Alessandro Baroni et al. | [[PDF]](http://arxiv.org/pdf/2610.12334v1.pdf)
-* **Abstract**: Dense-neutrino flavor evolution is a quantum many-body problem whose fully correlated treatment becomes rapidly more expensive with increasing particle number and spatial structure. We develop a \texttt{QCNO} quantum simulation code that maps a inhomogeneous forward-scattering neutrino Hamiltonian with advection and finite-range interactions to TEB...
+### [Dynamical Lie Algebras for Fixed-Gate Quantum Ansätze](http://arxiv.org/abs/2610.13709v1)
+* **Date**: `2026-10-09` | **Authors**: Orlane Zang, Daniel Juteau, Tony Quertier et al. | [[PDF]](http://arxiv.org/pdf/2610.13709v1.pdf)
+* **Abstract**: Parameterized Quantum Circuits have emerged as a central framework for variational quantum algorithms in the NISQ regime, with major applications in quantum simulation, combinatorial optimization, and, more recently, quantum machine learning (QML). By developing a new approach for computing dynamical Lie algebras associated with quantum circuits co...
 
 ---
 
-### [MERCE: Method-Space Correlation Energy Extrapolation toward High-Rank Coupled Cluster Accuracy](http://arxiv.org/abs/2610.12315v1)
-* **Date**: `2026-10-08` | **Authors**: Mateusz Witkowski, Szymon Śmiga, Pavlo O. Dral et al. | [[PDF]](http://arxiv.org/pdf/2610.12315v1.pdf)
-* **Abstract**: Energy extrapolation is a well-established strategy for approaching quantum-chemical limits without performing prohibitively expensive calculations. Complete basis set extrapolation is widely used, whereas extrapolation across electronic structure methods remains much less developed. Method-Space Effective-Rank Correlation Energy Extrapolation (MER...
+### [QTN-RQNN: Quantum Tensor Network-Based Recurrent Quantum Neural Network](http://arxiv.org/abs/2610.13694v1)
+* **Date**: `2026-10-09` | **Authors**: Amit S. Patel, Himanshu R. Patel, Bikash K. Behera et al. | [[PDF]](http://arxiv.org/pdf/2610.13694v1.pdf)
+* **Abstract**: Resource constraints and imperfect quantum operations remain major challenges for quantum machine learning (QML) on noisy intermediate-scale quantum (NISQ) devices, particularly for fault-diagnosis tasks involving imbalanced and heterogeneous data. This work proposes QTN-RQNN, a Quantum Tensor Network-Based Recurrent Quantum Neural Network that int...
 
 ---
 
-### [Large-Scale Benchmarking of Quantum Neural Network Configurations for Financial Time Series Forecasting](http://arxiv.org/abs/2610.12148v1)
-* **Date**: `2026-10-08` | **Authors**: Jack Waller, Xing Liang, Dimitrios Makris et al. | [[PDF]](http://arxiv.org/pdf/2610.12148v1.pdf)
-* **Abstract**: Quantum machine learning, and quantum neural networks (QNNs) in particular, are advancing fields with growing potential. Although systematic comparisons of QNN configurations have been explored primarily for classification tasks, comparatively little attention has been given to regression problems, particularly financial time series forecasting. Th...
+### [Decoder- and Noise-Aware Optimization Framework for Clifford-Deformed Quantum Error-Correcting Codes](http://arxiv.org/abs/2610.13589v1)
+* **Date**: `2026-10-09` | **Authors**: Julius Rye Bønnelykke, Benjamin Joecker, Peter Krogstrup et al. | [[PDF]](http://arxiv.org/pdf/2610.13589v1.pdf)
+* **Abstract**: Practical fault-tolerant quantum computing requires qubit-efficient quantum error correction (QEC). Clifford deformations (CDs) modify the stabilizers of a QEC code to lower its logical error rate at no additional resource cost. However, the number of possible CDs grows exponentially with the number of qubits, making exhaustive search infeasible be...
 
 ---
 
-### [Beyond QAOA: A Review of AI and Quantum Computing for Adaptive Combinatorial Optimization](http://arxiv.org/abs/2610.11759v1)
-* **Date**: `2026-10-08` | **Authors**: Hoong Chuin LAU | [[PDF]](http://arxiv.org/pdf/2610.11759v1.pdf)
-* **Abstract**: Near-term quantum approaches to combinatorial optimization are limited by qubit counts, circuit fidelity, sampling cost, and the difficulty of encoding constraints, while machine learning is increasingly used to configure and control quantum optimization workflows. We call such workflows adaptive: decisions conventionally fixed in advance, from for...
+### [Verifiable Sampling for Delegated Generative Quantum Machine Learning](http://arxiv.org/abs/2610.13211v1)
+* **Date**: `2026-10-09` | **Authors**: Matteo Inajetovic, Anna Pappa, Petros Wallden | [[PDF]](http://arxiv.org/pdf/2610.13211v1.pdf)
+* **Abstract**: Generative machine learning has shown remarkable results across a wide range of interdisciplinary tasks, motivating significant efforts toward Quantum Generative Models as a path to beyond-classical performance, given their capability of generating classically intractable distributions. However, comparatively little attention has been paid to secur...
+
+---
+
+### [Graphene double quantum dot as a solid-state two-level system in the THz range](http://arxiv.org/abs/2610.13196v1)
+* **Date**: `2026-10-09` | **Authors**: Alexis Wietzke, Solen Coeymans, Benjamin Hue et al. | [[PDF]](http://arxiv.org/pdf/2610.13196v1.pdf)
+* **Abstract**: Matter-based two-level quantum systems are fundamental building blocks of quantum technologies, underpinning applications in quantum computing, simulation, communication, and sensing. Today, most of these two-level quantum systems, including Rydberg atoms, trapped ions, superconducting circuits, molecules, and quantum dots, involve transition frequ...
+
+---
+
+### [Error Mitigation by Zero-Noise Extrapolation (ZNE) in Indirect-Control System](http://arxiv.org/abs/2610.13038v1)
+* **Date**: `2026-10-09` | **Authors**: Arijit Das, Masaki Owari | [[PDF]](http://arxiv.org/pdf/2610.13038v1.pdf)
+* **Abstract**: The indirect-control paradigm offers a scalable approach to quantum computation by restricting external operations to a small subset of qubits, whereas the entire system evolves under its intrinsic many-body Hamiltonian. This framework reduces hardware complexity and limits the noise introduced through control channels. Recently, Anan et al. propos...
