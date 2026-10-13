@@ -1,4 +1,4 @@
-# 🚀 Daily arXiv Tracker (October 12, 2026)
+# 🚀 Daily arXiv Tracker (October 13, 2026)
 
 > Focus: Quantum Chemistry / NISQ / VQE / Quantum Computing / QML / Electronic Structure
 
