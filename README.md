@@ -1,19 +1,19 @@
-# 🚀 Daily arXiv Tracker (October 14, 2026)
+# 🚀 Daily arXiv Tracker (October 15, 2026)
 
 > Focus: Quantum Chemistry / NISQ / VQE / Quantum Computing / QML / Electronic Structure
 
-### [Lifting: Quantum State Discrimination Framework for Mid-Circuit Measurements](http://arxiv.org/abs/2610.18482v1)
-* **Date**: `2026-10-13` | **Authors**: Chi Zhang, Neel Vora, Yilun Xu et al. | [[PDF]](http://arxiv.org/pdf/2610.18482v1.pdf)
-* **Abstract**: Quantum computing promises new capabilities beyond classical computation. Mid-circuit measurements (MCMs) enable error correction and outcome-dependent control, but their reliability is limited by noise on superconducting hardware. These operations depend on accurate quantum state discrimination (QSD), which assigns measured signals to state labels...
+### [Deterministic and Programmable Fusion for Scalable Generation of Photonic Graph States](http://arxiv.org/abs/2610.19927v1)
+* **Date**: `2026-10-14` | **Authors**: Yan Li, Yunfan Yang, Zenghui Bao et al. | [[PDF]](http://arxiv.org/pdf/2610.19927v1.pdf)
+* **Abstract**: Entanglement in multiphoton graph states is an important resource with various applications, such as measurement-based quantum computing and memory-less quantum repeaters. While some primitive instances have been successfully prepared, scalable generation of large-scale graph states with programmable connections remains an outstanding challenge. Fu...
 
 ---
 
-### [Distance Prediction for Quantum Codes](http://arxiv.org/abs/2610.18130v1)
-* **Date**: `2026-10-13` | **Authors**: Nadav Schneider, Eliya Nachmani | [[PDF]](http://arxiv.org/pdf/2610.18130v1.pdf)
-* **Abstract**: The distance of a quantum code is a fundamental metric that dictates its error-correction capability. While quantum low-density parity-check (qLDPC) families such as Bivariate Bicycle (BB) codes offer a promising pathway to low-overhead fault-tolerant quantum computing, computing their distance is challenging. Current exact solvers and even search ...
+### [Dynamical Decoupling of Nonclassical States in a Biased-Noise Spin Qudit](http://arxiv.org/abs/2610.19676v1)
+* **Date**: `2026-10-14` | **Authors**: Arjen Vaartjes, Namit Anand, Rocky Y. Su et al. | [[PDF]](http://arxiv.org/pdf/2610.19676v1.pdf)
+* **Abstract**: Encoding quantum information in $d$-dimensional systems (qudits) with $d>2$ offers appealing new directions for resource-efficient quantum computing. However, protecting the coherence of nonclassical qudit resource states remains an open challenge. Dynamical decoupling (DD) is a well-established technique for extending coherence, but its applicatio...
 
 ---
 
-### [WannierSTM: Efficient superconducting scanning-probe spectroscopy from maximally localized Wannier functions](http://arxiv.org/abs/2610.17943v1)
-* **Date**: `2026-10-13` | **Authors**: Oscar Moreno Segura, Dorye L. Esteras, Andrei Shumilin et al. | [[PDF]](http://arxiv.org/pdf/2610.17943v1.pdf)
-* **Abstract**: We present a Python-based program that combines maximally localized Wannier functions-based first-principles electronic structure with the nonequilibrium Green's function formalism to enable efficient simulations of scanning tunneling microscopy (STM). The workflow builds upon standard density functional theory packages to construct compact transpo...
+### [A compact six-beam 3D magneto-optical trap based on multifunctional metasurface chips](http://arxiv.org/abs/2610.19504v1)
+* **Date**: `2026-10-14` | **Authors**: Chen Qing, Huijie Sun, Yize Liu et al. | [[PDF]](http://arxiv.org/pdf/2610.19504v1.pdf)
+* **Abstract**: Magneto-optical traps (MOTs), indispensable to cold-atom-based quantum computing and quantum precision measurement, are increasingly desired in compact and stable form. Particularly, the six-beam 3D-MOT, distinguished by symmetric geometry and superior trapping performance, finds particularly broad applications. Conventional implementations, howeve...
