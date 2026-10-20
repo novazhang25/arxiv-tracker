@@ -1,25 +1,43 @@
-# 🚀 Daily arXiv Tracker (October 19, 2026)
+# 🚀 Daily arXiv Tracker (October 20, 2026)
 
 > Focus: Quantum Chemistry / NISQ / VQE / Quantum Computing / QML / Electronic Structure
 
-### [Demonstration of Logical Error Suppression in a Surface Code Memory on a Cloud-Accessible IBM Superconducting Processor](http://arxiv.org/abs/2610.23840v1)
-* **Date**: `2026-10-16` | **Authors**: Shuwen Kan, Aaron Hoyt, Sean Garner et al. | [[PDF]](http://arxiv.org/pdf/2610.23840v1.pdf)
-* **Abstract**: Quantum error correction can suppress logical errors exponentially with code distance when physical noise is below threshold. Realizing this on hardware requires tight coordination among quantum gates, mid-circuit measurements, and qubit coherence. Device variation, noise asymmetry, and correlations across space and time complicate the translation ...
+### [Supervised Learning with Quantum Hamiltonian Embeddings](http://arxiv.org/abs/2610.26833v1)
+* **Date**: `2026-10-19` | **Authors**: Riccardo Molteni, Minjun Jeon, Paolo Braccia et al. | [[PDF]](http://arxiv.org/pdf/2610.26833v1.pdf)
+* **Abstract**: Machine learning is widely regarded as a promising application in which quantum computing could offer a computational advantage. However, general quantum machine learning models with provable guarantees on performance, trainability, and efficient inference remain limited. In this work, we introduce quantum Hamiltonian embeddings, a supervised learn...
 
 ---
 
-### [Task-aligned spectral inductive biases in parameterized quantum circuits](http://arxiv.org/abs/2610.23834v1)
-* **Date**: `2026-10-16` | **Authors**: Felix Frohnert, Adrián Pérez-Salinas, Sebastian Lange et al. | [[PDF]](http://arxiv.org/pdf/2610.23834v1.pdf)
-* **Abstract**: Parameterized quantum circuits are widely investigated in quantum machine learning, yet how their architecture can provide task-aligned inductive biases remains poorly understood. We study data reuploading quantum circuits with two distinct inputs: a signal that varies between samples and a fixed, task-defined spectral query that specifies how the ...
+### [Measurement-efficient energy estimator for quantum chemistry of photodynamic materials](http://arxiv.org/abs/2610.26689v1)
+* **Date**: `2026-10-19` | **Authors**: Connor Lenihan, Kripa Panchagnula, Luca Erhart et al. | [[PDF]](http://arxiv.org/pdf/2610.26689v1.pdf)
+* **Abstract**: Accurate modelling of chemical reaction rates requires precise correlated energy differences. Quantum computing offers a potential route to their determination, but extracting energies from quantum-prepared states can demand prohibitive sampling. We demonstrate measurement-efficient correlated energy estimation using an electronically challenging H...
 
 ---
 
-### [Expressivity of IQP Feature-Map Quantum Kernels via Reproducing Kernel Hilbert Spaces](http://arxiv.org/abs/2610.23692v1)
-* **Date**: `2026-10-16` | **Authors**: Valeria Repetto, Stefano Melchionna, Romina D'Aurizio | [[PDF]](http://arxiv.org/pdf/2610.23692v1.pdf)
-* **Abstract**: Quantum kernels are among the most promising methods in quantum machine learning, providing a natural way to embed data into high-dimensional Hilbert spaces via quantum circuits and capturing non-linear relationships in data. Their learning behaviour is governed by the function class they represent, which is formally characterized by the structure ...
+### [Beyond Fidelity: Resolving Errors in Photonic Seed State Generation](http://arxiv.org/abs/2610.26603v1)
+* **Date**: `2026-10-19` | **Authors**: Sara Bartolucci, Patrick Birchall, Jacob Bulmer et al. | [[PDF]](http://arxiv.org/pdf/2610.26603v1.pdf)
+* **Abstract**: An important aspect of many linear optical quantum computing architectures is probabilistically generating small dual-rail qubit entangled states, or seed states. While many schemes to achieve this have been discovered, attention has been primarily focused on minimizing input resources and maximizing success probability rather than establishing a d...
 
 ---
 
-### [Solving Large-Scale Parameter Inference in Controllable Nuclear Fusion via Coherent Ising Machines and Block Coordinate Descent](http://arxiv.org/abs/2610.23507v1)
-* **Date**: `2026-10-16` | **Authors**: Zijie Liu, Wenchao Liu, Wenxin Li et al. | [[PDF]](http://arxiv.org/pdf/2610.23507v1.pdf)
-* **Abstract**: Bayesian inference enables self-consistent plasma parameter inversion in tokamak integrated data analysis by fusing multi-source diagnostics. However, under nonlinear Gaussian likelihoods, finding the maximum a posteriori (MAP) estimate typically relies on sampling methods whose high computational overhead precludes real-time plasma control. To add...
+### [Q-MALDetect: Quantum Image-Based Malware Detection and Adversarial Robustness Analysis](http://arxiv.org/abs/2610.26240v1)
+* **Date**: `2026-10-19` | **Authors**: Walid El Maouaki, Mohammad Izen, Nouhaila Innan et al. | [[PDF]](http://arxiv.org/pdf/2610.26240v1.pdf)
+* **Abstract**: Quantum machine-learning (QML) models are increasingly considered for security applications, yet their adversarial robustness in malware analysis remains insufficiently understood. This paper presents Q-MALDetect, a hybrid convolutional and variational-quantum detector for byte-image representations of x86-64 Executable and Linkable Format (ELF) bi...
+
+---
+
+### [Efficient Block Encodings for Ensembles of Molecular Hamiltonians](http://arxiv.org/abs/2610.25968v1)
+* **Date**: `2026-10-19` | **Authors**: Cristian L. Cortes, Andrew J. Jenkins, William Pol et al. | [[PDF]](http://arxiv.org/pdf/2610.25968v1.pdf)
+* **Abstract**: Accurately characterizing molecular properties and reactivity often requires electronic-structure calculations across an ensemble of molecular geometries. Quantum algorithms that process such ensembles coherently could address this challenge, but they require Hamiltonian block encoding circuits that combine advanced factorization techniques with su...
+
+---
+
+### [Quantum computing for plasma physics in magnetic-confinement fusion](http://arxiv.org/abs/2610.25885v1)
+* **Date**: `2026-10-19` | **Authors**: Chenjia Zhu, Shuai Xu, Yousheng Zhang et al. | [[PDF]](http://arxiv.org/pdf/2610.25885v1.pdf)
+* **Abstract**: Plasma simulations for magnetic-confinement fusion (MCF) involve high-dimensional kinetic dynamics, strong nonlinear coupling, complex geometries, and multiscale spatiotemporal behavior, imposing severe computational bottlenecks. While quantum computing offers a potential alternative for accelerating plasma simulation problems, its practical advant...
+
+---
+
+### [Online Scheduling and Distribution of Quantum Circuits over Quantum Networks](http://arxiv.org/abs/2610.25875v1)
+* **Date**: `2026-10-19` | **Authors**: Yukun Yang, Himanshu Gupta | [[PDF]](http://arxiv.org/pdf/2610.25875v1.pdf)
+* **Abstract**: Emerging quantum networks enable distributed quantum computing (DQC) by interconnecting modest, noisy quantum processors. However, practical deployments face tight memory budgets, probabilistic entanglement generation, and decoherence, all while serving multiple users. In realistic settings -- cloud execution, iterative/interactive workloads and co...
