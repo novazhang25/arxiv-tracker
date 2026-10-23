@@ -1,19 +1,19 @@
-# 🚀 Daily arXiv Tracker (October 22, 2026)
+# 🚀 Daily arXiv Tracker (October 23, 2026)
 
 > Focus: Quantum Chemistry / NISQ / VQE / Quantum Computing / QML / Electronic Structure
 
-### [High-fidelity and robust controlled-Z gates for superconducting transmon qubits. I. Intrinsic errors and decoherence](http://arxiv.org/abs/2610.30056v1)
-* **Date**: `2026-10-21` | **Authors**: Chia-Hsien Huang, Hsi-Sheng Goan | [[PDF]](http://arxiv.org/pdf/2610.30056v1.pdf)
-* **Abstract**: Fault-tolerant quantum computing requires quantum gates that combine short duration, high fidelity, and robustness to noise. As quantum processors scale, robustness becomes increasingly important because exhaustive characterization and frequent recalibration of individual gates become impractical. We present a comprehensive optimal-control framewor...
+### [Screening strongly correlated materials in solid oxide cells with quantum simulation](http://arxiv.org/abs/2610.31591v1)
+* **Date**: `2026-10-22` | **Authors**: Ouns El Harzli, Jelle Bor, Linde Wester et al. | [[PDF]](http://arxiv.org/pdf/2610.31591v1.pdf)
+* **Abstract**: We develop an end-to-end framework for assessing a quantum-computing application in industrial materials science: the screening of strongly correlated oxygen-electrode materials for SOFCs and SOECs. We formulate the materials problem in terms of interface observables including oxygen-vacancy formation energies, vacancy migration barriers, and elect...
 
 ---
 
-### [Meter-scale quantum interconnects between large quantum processors](http://arxiv.org/abs/2610.29986v1)
-* **Date**: `2026-10-21` | **Authors**: Neereja M. Sundaresan, Nicholas Cotaj, Yadav Prasad Kandel et al. | [[PDF]](http://arxiv.org/pdf/2610.29986v1.pdf)
-* **Abstract**: Modular quantum architecture requires long-distance quantum interconnects to stitch together individual processor modules. Such interconnects, long-distance couplers or L-couplers, must support coherent quantum operation over meter-scale distances and scale to multiple connections between any two modules. Here we demonstrate four L-couplers operati...
+### [Unifying Time-Independent and Time-Dependent Franck--Condon Pictures in Quantum Mechanochemistry via the Linear Coupling Approximation](http://arxiv.org/abs/2610.31426v1)
+* **Date**: `2026-10-22` | **Authors**: Vladimir V. Rybkin | [[PDF]](http://arxiv.org/pdf/2610.31426v1.pdf)
+* **Abstract**: Quantum chemistry has achieved impressive results in modeling and interpreting mechanochemical transformations at the molecular level. An essential question, the time profile of force application, has   however attracted less attention. Here, the Franck--Condon theory   of quantum mechanochemistry, previously formulated for the   sudden-force limit...
 
 ---
 
-### [Mamba Quantum Eigensolver (MQE): A Selective State Space Model for Scalable Ground State Simulations in Quantum Chemistry](http://arxiv.org/abs/2610.29779v1)
-* **Date**: `2026-10-21` | **Authors**: G. X. A. Petronilo, M. R. Araújo, Erico S. Teixeira et al. | [[PDF]](http://arxiv.org/pdf/2610.29779v1.pdf)
-* **Abstract**: Predicting molecular electronic structure using Quantum Computing approaches is a challenge in Computational Chemistry. Traditional Variational Quantum Eigensolvers (VQEs) are typically hindered by optimization challenges. The alternative Generative Quantum Eigensolver (GQE) mitigates this by reformulating ground-state search as discrete sequence g...
+### [The limits of magic-state distillation](http://arxiv.org/abs/2610.31115v1)
+* **Date**: `2026-10-22` | **Authors**: Llorenç Balada Gaggioli, Jakub Mareček | [[PDF]](http://arxiv.org/pdf/2610.31115v1.pdf)
+* **Abstract**: Magic-state factories are a major cost of fault-tolerant quantum computing, yet how few noisy inputs they need is known only for restricted protocols. We show that, for tolerating input faults, any stabilizer protocol, however adaptive, postselected or multistage, is no better than a projection onto one stabilizer code, and that for rational target...
