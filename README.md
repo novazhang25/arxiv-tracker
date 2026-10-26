@@ -1,19 +1,31 @@
-# 🚀 Daily arXiv Tracker (October 25, 2026)
+# 🚀 Daily arXiv Tracker (October 26, 2026)
 
 > Focus: Quantum Chemistry / NISQ / VQE / Quantum Computing / QML / Electronic Structure
 
-### [Screening strongly correlated materials in solid oxide cells with quantum simulation](http://arxiv.org/abs/2610.31591v1)
-* **Date**: `2026-10-22` | **Authors**: Ouns El Harzli, Jelle Bor, Linde Wester et al. | [[PDF]](http://arxiv.org/pdf/2610.31591v1.pdf)
-* **Abstract**: We develop an end-to-end framework for assessing a quantum-computing application in industrial materials science: the screening of strongly correlated oxygen-electrode materials for SOFCs and SOECs. We formulate the materials problem in terms of interface observables including oxygen-vacancy formation energies, vacancy migration barriers, and elect...
+### [Distributed Quantum-Centric Supercomputing with Multi-Layered Generative Learning for Intermolecular Interactions](http://arxiv.org/abs/2610.32968v1)
+* **Date**: `2026-10-23` | **Authors**: Chayan Patra, Prayas Ghosh, Adwait Patkhedkar et al. | [[PDF]](http://arxiv.org/pdf/2610.32968v1.pdf)
+* **Abstract**: Quantum-centric supercomputing (QCSC) approaches, such as sample-based quantum diagonalization (SQD), combine quantum processors with high-performance computers (HPC), offering a promising route toward solving challenging electronic structure problems. However, implementation of QCSC approaches to large active space calculations is constrained by t...
 
 ---
 
-### [Unifying Time-Independent and Time-Dependent Franck--Condon Pictures in Quantum Mechanochemistry via the Linear Coupling Approximation](http://arxiv.org/abs/2610.31426v1)
-* **Date**: `2026-10-22` | **Authors**: Vladimir V. Rybkin | [[PDF]](http://arxiv.org/pdf/2610.31426v1.pdf)
-* **Abstract**: Quantum chemistry has achieved impressive results in modeling and interpreting mechanochemical transformations at the molecular level. An essential question, the time profile of force application, has   however attracted less attention. Here, the Franck--Condon theory   of quantum mechanochemistry, previously formulated for the   sudden-force limit...
+### [Hardware-Friendly Estimation of LCU-Based Expectation Values via Quantum-to-Classical Workload Shifting](http://arxiv.org/abs/2610.32841v1)
+* **Date**: `2026-10-23` | **Authors**: Hari Hara Suthan Chittoor, Thirumalai Manimaran | [[PDF]](http://arxiv.org/pdf/2610.32841v1.pdf)
+* **Abstract**: Estimating the expectation value of an observable $O$ for a quantum state evolved under a general, possibly non-unitary, operator $A$ is a fundamental task in quantum simulation, chemistry, and variational algorithms. Existing linear-combination-of-unitaries (LCU) approaches implement $A$ on hardware, requiring ancilla qubits, controlled unitaries ...
 
 ---
 
-### [The limits of magic-state distillation](http://arxiv.org/abs/2610.31115v1)
-* **Date**: `2026-10-22` | **Authors**: Llorenç Balada Gaggioli, Jakub Mareček | [[PDF]](http://arxiv.org/pdf/2610.31115v1.pdf)
-* **Abstract**: Magic-state factories are a major cost of fault-tolerant quantum computing, yet how few noisy inputs they need is known only for restricted protocols. We show that, for tolerating input faults, any stabilizer protocol, however adaptive, postselected or multistage, is no better than a projection onto one stabilizer code, and that for rational target...
+### [Quantum Machine Learning in Medical Imaging: A Primer for Radiologists](http://arxiv.org/abs/2610.32762v1)
+* **Date**: `2026-10-23` | **Authors**: Ruben Ortiz Cordero, Gaven K. Smart, Harshada Gothankar et al. | [[PDF]](http://arxiv.org/pdf/2610.32762v1.pdf)
+* **Abstract**: Deep learning has transformed radiology, but the computational cost of training and deploying modern models is outpacing what classical hardware can support. Quantum computing has been proposed as one response to this bottleneck: an n-qubit system can represent $2^n$ states simultaneously, although practical speedups require efficient algorithms, d...
+
+---
+
+### [Classical Pre-Training of Large Shallow Parametrized Quantum Circuits through Pauli Propagation and deployment on Quantum Hardware](http://arxiv.org/abs/2610.32571v1)
+* **Date**: `2026-10-23` | **Authors**: Saverio Monaco, Jamal Slim, Ran Xue et al. | [[PDF]](http://arxiv.org/pdf/2610.32571v1.pdf)
+* **Abstract**: Scaling parametrized quantum circuits to a larger number of qubits is a central challenge in Quantum Machine Learning: gradient estimation via the parameter-shift rule quickly becomes prohibitively expensive, while gradient-free optimizers offer limited convergence guarantees. We apply the Pauli propagation framework to a broad class of Quantum Mac...
+
+---
+
+### [Robustness of Quantum Correlations and Controlled Teleportation Fidelity under Noisy Channels](http://arxiv.org/abs/2610.32049v1)
+* **Date**: `2026-10-23` | **Authors**: S. Archana, Aditi Das, Venkat Abhignan et al. | [[PDF]](http://arxiv.org/pdf/2610.32049v1.pdf)
+* **Abstract**: In distributed quantum computing, quantum networks provide a potential infrastructure for long-range quantum information processing. Controlled quantum teleportation (CQT) is a key practically relevant protocol that can connect two parties on a network and enables a third party, the controller to allow or abort the secure teleportation of an arbitr...
