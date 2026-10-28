@@ -1,19 +1,13 @@
-# 🚀 Daily arXiv Tracker (October 27, 2026)
+# 🚀 Daily arXiv Tracker (October 28, 2026)
 
 > Focus: Quantum Chemistry / NISQ / VQE / Quantum Computing / QML / Electronic Structure
 
-### [Quantum computation of energy level degeneracy and thermodynamical properties of spin systems](http://arxiv.org/abs/2610.35660v1)
-* **Date**: `2026-10-26` | **Authors**: V. M. Tkachuk, M. I. Samar | [[PDF]](http://arxiv.org/pdf/2610.35660v1.pdf)
-* **Abstract**: We propose a hybrid quantum-classical method for reconstructing energy-level degeneracies and thermodynamic properties of spin systems. A single ancilla qubit is used to measure the partition function at imaginary inverse temperatures. For spectra lying on a known equally spaced energy grid, the inverse discrete Fourier transform allows exact recon...
+### [StudDFT: A quantum chemistry program for educational and research purposes](http://arxiv.org/abs/2610.37483v1)
+* **Date**: `2026-10-27` | **Authors**: Stanislav K. Ignatov | [[PDF]](http://arxiv.org/pdf/2610.37483v1.pdf)
+* **Abstract**: StudDFT is a quantum chemistry program for Hartree--Fock (HF), density functional theory (DFT), and second-order Møller--Plesset (MP2) calculations of small and medium-sized molecules. It is intended primarily for teaching and student research, but its accuracy suffices for routine research calculations. Version 1.30.2 implements the RHF/UHF, RKS/U...
 
 ---
 
-### [A Control Line Multiplexing Framework for Scalable Quantum Computing](http://arxiv.org/abs/2610.35227v1)
-* **Date**: `2026-10-26` | **Authors**: Dayu Li, Naibin Zhou, Zhiyuan Chen et al. | [[PDF]](http://arxiv.org/pdf/2610.35227v1.pdf)
-* **Abstract**: Universal fault-tolerant superconducting quantum computers are expected to require millions of physical qubits; yet extending the prevailing dedicated-control-line paradigm to this scale would exceed the wiring density and cooling-power budget of dilution refrigerators. Microwave frequency-division multiplexing (FDM) revolutionized classical commun...
-
----
-
-### [Basis-set error bounds for first-quantised quantum simulation of chemistry](http://arxiv.org/abs/2610.35205v1)
-* **Date**: `2026-10-26` | **Authors**: Dominic W. Berry, Arkin Tikku, Sophia Simon et al. | [[PDF]](http://arxiv.org/pdf/2610.35205v1.pdf)
-* **Abstract**: In quantum simulation of electronic structure it is often expected that the estimate of the ground energy converges to the continuum basis limit at a rate of $\mathcal O(N^{-1})$ for a basis of size $N$. This has been found in analytical and numerical studies, but without a rigorous treatment of the error in the quantities considered in quantum alg...
+### [Effective Noise Thresholds for Reliable Quantum Approximation Optimisation Algorithm under Noisy Environment](http://arxiv.org/abs/2610.36597v1)
+* **Date**: `2026-10-27` | **Authors**: Yozef Tjandra, Hendrik Santoso Sugiarto, Celine Vania Setiadi et al. | [[PDF]](http://arxiv.org/pdf/2610.36597v1.pdf)
+* **Abstract**: Variational quantum algorithms are leading candidates for practical utilisation on noisy intermediate-scale quantum (NISQ) processors, but accumulating noise bounds the usefulness of circuit depths. For the quantum approximate optimisation algorithm (QAOA), this trade-off has mostly been addressed by searching for the best depth for a given device....
