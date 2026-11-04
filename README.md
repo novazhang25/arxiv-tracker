@@ -1,31 +1,37 @@
-# 🚀 Daily arXiv Tracker (November 03, 2026)
+# 🚀 Daily arXiv Tracker (November 04, 2026)
 
 > Focus: Quantum Chemistry / NISQ / VQE / Quantum Computing / QML / Electronic Structure
 
-### [Quantum channel tomography: optimal bounds in the near-boundary regime](http://arxiv.org/abs/2611.03639v1)
-* **Date**: `2026-11-02` | **Authors**: Kean Chen, Aadil Oufkir | [[PDF]](http://arxiv.org/pdf/2611.03639v1.pdf)
-* **Abstract**: Quantum channel tomography (also known as quantum process tomography) is a fundamental task in quantum information and quantum computing, aiming to learn the full description of an unknown quantum channel from black-box queries. For channels with input dimension $d_1$, output dimension $d_2$, and Kraus rank at most $r$, [CGO+26] identifies the dila...
+### [Reopening the one clean qubit case of a semi-grand challenge](http://arxiv.org/abs/2611.05046v1)
+* **Date**: `2026-11-03` | **Authors**: Christopher W. Mansell | [[PDF]](http://arxiv.org/pdf/2611.05046v1.pdf)
+* **Abstract**: In his 2005 list of semi-grand challenges for quantum computing theory, Scott Aaronson asked whether a quantum computer that is always in a separable mixed state can be simulated by a classical computer in polynomial time. An affirmative answer was claimed for the one clean qubit model of quantum computation. The supporting mathematical arguments r...
 
 ---
 
-### [Qyantram: A Transparent and Verifiable Quantum Computing Platform](http://arxiv.org/abs/2611.03262v1)
-* **Date**: `2026-11-02` | **Authors**: Sharyu Kekane, Sadique Khatib, Abhushan Bokade et al. | [[PDF]](http://arxiv.org/pdf/2611.03262v1.pdf)
-* **Abstract**: Most quantum circuit platforms focus on idealized circuit assembly and simulation, hiding hardware compilation, error identification, and variational model training behind black-box operations. QYANTRAM addresses this gap through an open platform comprising four subsystems, built around evidence-backed results and independent verification.   Its st...
+### [On Revolutionizing Power Systems: Suitability of Quantum Computing-Ready Pipelines for Stochastic Unit Commitment Optimization](http://arxiv.org/abs/2611.05030v1)
+* **Date**: `2026-11-03` | **Authors**: Ying-Yi Hong, Dylan Josh Domingo Lopez | [[PDF]](http://arxiv.org/pdf/2611.05030v1.pdf)
+* **Abstract**: Modern unit commitment (UC) scenarios, particularly those involving uncertainties from demand fluctuations and renewable energy sources, pose significant challenges to traditional optimization methods due to the large search spaces they encompass. This paper proposes a quantum computing-ready optimization pipeline for deterministic and stochastic U...
 
 ---
 
-### [Spin SYK-dot chains: entanglement bound and resource estimates towards a quantum advantage](http://arxiv.org/abs/2611.03207v1)
-* **Date**: `2026-11-02` | **Authors**: Sayantan Dey, Abel Carreras, Siddhartha Patra | [[PDF]](http://arxiv.org/pdf/2611.03207v1.pdf)
-* **Abstract**: Ground states of Sachdev-Ye-Kitaev (SYK)-type models are volume-law entangled, which makes them costly both for tensor networks and for quantum hardware simulations. Thus, it remains unclear where quantum hardware could outperform classical simulation of such models. In this work, we study a spin SYK-dot chain, in which q dense SYK dots of p qubits...
+### [Band structure of two-dimensional graphene and of one-dimensional nanoribbons via variational quantum algorithms: from energies to wavefunction quality](http://arxiv.org/abs/2611.04975v1)
+* **Date**: `2026-11-03` | **Authors**: Raúl Medrano Millán, Rodrigo Gil-Merino y Rubio, Juan Borge et al. | [[PDF]](http://arxiv.org/pdf/2611.04975v1.pdf)
+* **Abstract**: Simulating quantum many-body systems classically encounters exponential bottlenecks, which quantum devices circumvent by natively encoding wavefunctions. In the Noisy Intermediate-Scale Quantum (NISQ) era, however, hardware noise constrains simulation accuracy. As a stepping stone toward strongly correlated materials, we compute the band structure ...
 
 ---
 
-### [eigenkit: A Provider-Neutral Quantum Computing Library](http://arxiv.org/abs/2611.02979v1)
-* **Date**: `2026-11-02` | **Authors**: Laia Domingo, Daniil Tarpanov, Arsenii Senokosov et al. | [[PDF]](http://arxiv.org/pdf/2611.02979v1.pdf)
-* **Abstract**: Quantum software ecosystems provide increasingly capable tools for simulation and hardware execution, but differences in programming models, supported features, and backend capabilities can make it difficult to move and systematically compare the same quantum algorithm across execution environments. We introduce eigenkit, a provider-neutral quantum...
+### [Conditional Quantum Priors for Chaotic Fluid Dynamics](http://arxiv.org/abs/2611.04872v1)
+* **Date**: `2026-11-03` | **Authors**: Shao-Bo Zhou, Yu-Ze Zhu, Hang Song et al. | [[PDF]](http://arxiv.org/pdf/2611.04872v1.pdf)
+* **Abstract**: Neural networks that predict chaotic dynamics can reproduce short trajectories while misrepresenting statistics over long times. Quantum priors represent selected dynamical statistics through quantum generative models and provide statistical constraints for classical neural networks. Training a separate prior for each value of a system parameter, s...
 
 ---
 
-### [Reimagining computational quantum research with AI scientists](http://arxiv.org/abs/2611.02833v1)
-* **Date**: `2026-11-02` | **Authors**: Yuxuan Du, Hanqing Zhao, Xinbiao Wang et al. | [[PDF]](http://arxiv.org/pdf/2611.02833v1.pdf)
-* **Abstract**: AI scientists are expanding automated research across scientific domains, yet their ability to turn the scientific record into a foundation for autonomous discovery remains elusive. Here we uncover a fundamental barrier to this transition and demonstrate a route to overcome it in computational quantum science, where advances shape both what we can ...
+### [Sleep-Disordered Breathing Detection with Quantum Recurrent Neural Networks](http://arxiv.org/abs/2611.04818v1)
+* **Date**: `2026-11-03` | **Authors**: Alejandro Mayorga-Redondo, José Daniel Viqueira, Diego Alvarez-Estevez et al. | [[PDF]](http://arxiv.org/pdf/2611.04818v1.pdf)
+* **Abstract**: This work investigates the application of Quantum Recurrent Neural Networks to the binary classification of sleep-disordered breathing events in time-series data, aiming to distinguish between apneic and normal breathing episodes. A variational classical--quantum architecture is proposed and evaluated against classical Recurrent Neural Network mode...
+
+---
+
+### [Quantum Simulation of Electronic Structure using Quantum Density Functional Theory on a Programmable Integrated Photonic Circuit](http://arxiv.org/abs/2611.04694v1)
+* **Date**: `2026-11-03` | **Authors**: Giovanni Adriano, Akilan Rajamani, Francesco Hoch et al. | [[PDF]](http://arxiv.org/pdf/2611.04694v1.pdf)
+* **Abstract**: Quantum simulations of molecular electronic structure hold the potential for computational advantage but are inherently limited by the linear scaling of qubit requirements with respect to system size. Quantum Density Functional Theory (Q-DFT) addresses this constraint by reformulating the interacting many-body problem in terms of a non-interacting ...
