@@ -1,37 +1,43 @@
-# 🚀 Daily arXiv Tracker (November 04, 2026)
+# 🚀 Daily arXiv Tracker (November 05, 2026)
 
 > Focus: Quantum Chemistry / NISQ / VQE / Quantum Computing / QML / Electronic Structure
 
-### [Reopening the one clean qubit case of a semi-grand challenge](http://arxiv.org/abs/2611.05046v1)
-* **Date**: `2026-11-03` | **Authors**: Christopher W. Mansell | [[PDF]](http://arxiv.org/pdf/2611.05046v1.pdf)
-* **Abstract**: In his 2005 list of semi-grand challenges for quantum computing theory, Scott Aaronson asked whether a quantum computer that is always in a separable mixed state can be simulated by a classical computer in polynomial time. An affirmative answer was claimed for the one clean qubit model of quantum computation. The supporting mathematical arguments r...
+### [Resource-efficient formulations of the Knapsack problem for quantum computing](http://arxiv.org/abs/2611.06797v1)
+* **Date**: `2026-11-04` | **Authors**: Pim van den Heuvel, Vrinda Mehta, Dennis Willsch et al. | [[PDF]](http://arxiv.org/pdf/2611.06797v1.pdf)
+* **Abstract**: Quantum computing has emerged as a new tool for solving combinatorial optimization problems. Quantum optimization approaches usually operate on the subclass of Quadratic Unconstrained Binary Optimization (QUBO) problems. Many optimization problems can be reformulated in this form, though there are often multiple ways to do so. The choice of formula...
 
 ---
 
-### [On Revolutionizing Power Systems: Suitability of Quantum Computing-Ready Pipelines for Stochastic Unit Commitment Optimization](http://arxiv.org/abs/2611.05030v1)
-* **Date**: `2026-11-03` | **Authors**: Ying-Yi Hong, Dylan Josh Domingo Lopez | [[PDF]](http://arxiv.org/pdf/2611.05030v1.pdf)
-* **Abstract**: Modern unit commitment (UC) scenarios, particularly those involving uncertainties from demand fluctuations and renewable energy sources, pose significant challenges to traditional optimization methods due to the large search spaces they encompass. This paper proposes a quantum computing-ready optimization pipeline for deterministic and stochastic U...
+### [Open-shell Configuration State Functions as trial states for phaseless auxiliary-field quantum Monte Carlo](http://arxiv.org/abs/2611.06790v1)
+* **Date**: `2026-11-04` | **Authors**: Don Danilov, Hugh G. A. Burton, James Shee | [[PDF]](http://arxiv.org/pdf/2611.06790v1.pdf)
+* **Abstract**: The accurate description of open-shell states in molecular systems poses challenges for approximate electronic structure methods. One emerging approach is to variationally optimize the orbitals of a single user-selected Configuration State Function (CSF), i.e., a linear combination of Slater determinants that is constructed as an eigenstate of the ...
 
 ---
 
-### [Band structure of two-dimensional graphene and of one-dimensional nanoribbons via variational quantum algorithms: from energies to wavefunction quality](http://arxiv.org/abs/2611.04975v1)
-* **Date**: `2026-11-03` | **Authors**: Raúl Medrano Millán, Rodrigo Gil-Merino y Rubio, Juan Borge et al. | [[PDF]](http://arxiv.org/pdf/2611.04975v1.pdf)
-* **Abstract**: Simulating quantum many-body systems classically encounters exponential bottlenecks, which quantum devices circumvent by natively encoding wavefunctions. In the Noisy Intermediate-Scale Quantum (NISQ) era, however, hardware noise constrains simulation accuracy. As a stepping stone toward strongly correlated materials, we compute the band structure ...
+### [Machine Learning the Complete Active-Space Wavefunction Reconstruction](http://arxiv.org/abs/2611.06779v1)
+* **Date**: `2026-11-04` | **Authors**: Aniruddha Seal, Bhavnesh Jangid, Helen S. Clifford et al. | [[PDF]](http://arxiv.org/pdf/2611.06779v1.pdf)
+* **Abstract**: Machine-learned interatomic potentials enable multireference-quality reaction dynamics but do not retain the electronic structure underlying the predicted energies and forces. Recovering this information by independently performing complete active space self-consistent field (CASSCF) calculations is both expensive and potentially inconsistent. We i...
 
 ---
 
-### [Conditional Quantum Priors for Chaotic Fluid Dynamics](http://arxiv.org/abs/2611.04872v1)
-* **Date**: `2026-11-03` | **Authors**: Shao-Bo Zhou, Yu-Ze Zhu, Hang Song et al. | [[PDF]](http://arxiv.org/pdf/2611.04872v1.pdf)
-* **Abstract**: Neural networks that predict chaotic dynamics can reproduce short trajectories while misrepresenting statistics over long times. Quantum priors represent selected dynamical statistics through quantum generative models and provide statistical constraints for classical neural networks. Training a separate prior for each value of a system parameter, s...
+### [Efficient quantum ultraspherical transform and a well-conditioned quantum spectral method](http://arxiv.org/abs/2611.06651v1)
+* **Date**: `2026-11-04` | **Authors**: Trong Duong, Norbert Hosters | [[PDF]](http://arxiv.org/pdf/2611.06651v1.pdf)
+* **Abstract**: Solving differential equations is a promising application of quantum computing. Spectral methods, where the solution is represented by coefficients in a basis, are particularly well suited to quantum solvers because their structured discretizations can enable efficient linear-algebra operations while providing rapid convergence. Their quantum imple...
 
 ---
 
-### [Sleep-Disordered Breathing Detection with Quantum Recurrent Neural Networks](http://arxiv.org/abs/2611.04818v1)
-* **Date**: `2026-11-03` | **Authors**: Alejandro Mayorga-Redondo, José Daniel Viqueira, Diego Alvarez-Estevez et al. | [[PDF]](http://arxiv.org/pdf/2611.04818v1.pdf)
-* **Abstract**: This work investigates the application of Quantum Recurrent Neural Networks to the binary classification of sleep-disordered breathing events in time-series data, aiming to distinguish between apneic and normal breathing episodes. A variational classical--quantum architecture is proposed and evaluated against classical Recurrent Neural Network mode...
+### [A Variational Quantum Algorithm for Multi-Skill Project Scheduling](http://arxiv.org/abs/2611.06502v1)
+* **Date**: `2026-11-04` | **Authors**: Raul Martinez, Miguel Sánchez-Beato, Matilde Osa et al. | [[PDF]](http://arxiv.org/pdf/2611.06502v1.pdf)
+* **Abstract**: Job scheduling is an NP-hard optimization problem with clear industrial relevance. In practice, distributing work across a team is not only about meeting deadlines or improving productivity; it also affects fatigue, stress, and employee well-being. Variational Quantum Algorithms (VQAs) provide a promising way to address these problems through QUBO ...
 
 ---
 
-### [Quantum Simulation of Electronic Structure using Quantum Density Functional Theory on a Programmable Integrated Photonic Circuit](http://arxiv.org/abs/2611.04694v1)
-* **Date**: `2026-11-03` | **Authors**: Giovanni Adriano, Akilan Rajamani, Francesco Hoch et al. | [[PDF]](http://arxiv.org/pdf/2611.04694v1.pdf)
-* **Abstract**: Quantum simulations of molecular electronic structure hold the potential for computational advantage but are inherently limited by the linear scaling of qubit requirements with respect to system size. Quantum Density Functional Theory (Q-DFT) addresses this constraint by reformulating the interacting many-body problem in terms of a non-interacting ...
+### [Improved Exact and Approximate Quantum Fourier Transforms from Multiplication](http://arxiv.org/abs/2611.06341v1)
+* **Date**: `2026-11-04` | **Authors**: Chandrima Kayal, Rajat Mittal, Manaswi Paraashar et al. | [[PDF]](http://arxiv.org/pdf/2611.06341v1.pdf)
+* **Abstract**: In the world of quantum computing, quantum Fourier transform (QFT) has been one of the most important subroutines for quantum algorithms, as exemplified by Shor's factoring algorithms and phase estimation (which in itself has been used as a primitive in various quantum algorithms). In fact most of the well known quantum algorithms can be divided in...
+
+---
+
+### [Connection of surface code patches based on entanglement distillation without postselection](http://arxiv.org/abs/2611.06260v1)
+* **Date**: `2026-11-04` | **Authors**: Moeto Mishima, Toshihiko Sasaki, Yasunari Suzuki et al. | [[PDF]](http://arxiv.org/pdf/2611.06260v1.pdf)
+* **Abstract**: Distributed quantum computing is a promising approach for overcoming the scalability limitations of fault-tolerant quantum computing. Entanglement distillation, a process that extracts higher-fidelity entangled states from noisy ones, plays a key role in distributed quantum computing. However, simple distillation protocols typically rely on postsel...
