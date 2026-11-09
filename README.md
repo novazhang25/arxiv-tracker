@@ -1,31 +1,31 @@
-# 🚀 Daily arXiv Tracker (November 08, 2026)
+# 🚀 Daily arXiv Tracker (November 09, 2026)
 
 > Focus: Quantum Chemistry / NISQ / VQE / Quantum Computing / QML / Electronic Structure
 
-### [Quantum Knowledge Distillation: State-of-the-art, Applications and Open Problems](http://arxiv.org/abs/2611.08461v1)
-* **Date**: `2026-11-05` | **Authors**: Aldana Al-Sulaiti, Kuan-Cheng Chen, Muhammad Bilal Akram Dastagir et al. | [[PDF]](http://arxiv.org/pdf/2611.08461v1.pdf)
-* **Abstract**: Knowledge distillation transfers predictions, representations, or other supervisory information between learning models and is increasingly investigated in quantum machine learning. Its applications extend beyond compression to cross-architecture transfer, circuit approximation, distributed learning, and classical deployment of models trained using...
+### [Differentiable Digital Twins for Optimization, Calibration, and Characterization of Neutral-Atom- and Ion-based Quantum Computers](http://arxiv.org/abs/2611.09779v1)
+* **Date**: `2026-11-06` | **Authors**: Marco Rossignolo, Lorena C. Bianchet, Anurag Saha Roy et al. | [[PDF]](http://arxiv.org/pdf/2611.09779v1.pdf)
+* **Abstract**: Quantum technologies based on individually controlled atoms are among the most promising platforms for scalable quantum computing, owing to their favorable coherence properties and controllability. Nonetheless, achieving reliable and high-fidelity gate operations remains challenging due to the sensitivity of these systems to noise and hardware impe...
 
 ---
 
-### [Atomic Static Electric Quadrupole Polarizability from Relativistic Many-Body Theory With Application To Thulium $\left(6s^2\, 4f^{13}\right)$\, $^2F_{7/2}$ and $^2F_{5/2}$](http://arxiv.org/abs/2611.08348v1)
-* **Date**: `2026-11-05` | **Authors**: Timo Fleig | [[PDF]](http://arxiv.org/pdf/2611.08348v1.pdf)
-* **Abstract**: In the present work a method for calculating atomic static electric rank-$n$ tensor quadrupole polarizabilities $α_Q^{(n)}(J)$ for arbitrary atomic electronic structure is presented. It is based on a linear-symmetry representation of atomic states using large-scale relativistic configuration interaction wavefunctions, and the quadrupole polarizabil...
+### [Scalable Unitary State-Encoding for Generic Large Data](http://arxiv.org/abs/2611.09760v1)
+* **Date**: `2026-11-06` | **Authors**: Vittorio Pagni, Peter K. Schuhmacher, Michael Felderer et al. | [[PDF]](http://arxiv.org/pdf/2611.09760v1.pdf)
+* **Abstract**: Efficient encoding of data into quantum states remains a fundamental bottleneck in many quantum computing protocols, which would otherwise offer advantages over their classical counterparts. Here, we introduce deterministic and scalable amplitude-encoding methods with low two-qubit gate costs and tunable trade-offs between circuit depth and encodin...
 
 ---
 
-### [QDiff: Differential Testing of Quantum Software Stacks](http://arxiv.org/abs/2611.08220v1)
-* **Date**: `2026-11-05` | **Authors**: Jiyuan Wang, Qian Zhang, Guoqing Harry Xu et al. | [[PDF]](http://arxiv.org/pdf/2611.08220v1.pdf)
-* **Abstract**: Over the past few years, several quantum software stacks (QSS) have been developed in response to rapid hardware advances in quantum computing. A QSS includes a quantum programming language, an optimizing compiler that translates a quantum algorithm written in a high-level language into quantum gate instructions, a quantum simulator that emulates t...
+### [Quantum Integration Software Suite For HPC-Quantum Computing Workflows](http://arxiv.org/abs/2611.09659v1)
+* **Date**: `2026-11-06` | **Authors**: Mateusz Meller, Joseph C. R. Thacker, Thomas W. Keal et al. | [[PDF]](http://arxiv.org/pdf/2611.09659v1.pdf)
+* **Abstract**: In this work, we focus on addressing challenges related to modelling the integration of conventional high-performance computing (HPC) and quantum computing (QC). We introduce the Quantum Assembly Compiler (QASC) for OpenQASM3.0 files. The compiler produces an executable that leverages the high-performance simulator QuEST to simulate quantum program...
 
 ---
 
-### [Machine learning quantum data to accelerate quantum Monte Carlo](http://arxiv.org/abs/2611.08151v1)
-* **Date**: `2026-11-05` | **Authors**: Tong Jiang, Andrew Zhao, Shashwat Kumar et al. | [[PDF]](http://arxiv.org/pdf/2611.08151v1.pdf)
-* **Abstract**: Simulating strongly correlated electrons in molecules and materials remains a central goal for quantum computing. A promising strategy uses quantum processors to prepare trial wavefunctions that guide classical quantum Monte Carlo (QMC). However, the enormous computational cost of repeatedly processing quantum measurements has severely limited the ...
+### [Evaluation of Quantum Machine Learning Models for Network Anomaly Detection](http://arxiv.org/abs/2611.09253v1)
+* **Date**: `2026-11-06` | **Authors**: Swathi Chandrasekhar, Shiva Raj Pokhrel | [[PDF]](http://arxiv.org/pdf/2611.09253v1.pdf)
+* **Abstract**: The proliferation of Internet-connected devices has intensified the risk of large-scale network intrusions, necessitating more advanced detection methodologies for the post quantum era. This work presents, to the best of our knowledge, a com- prehensive investigation of quantum machine learning (QML) for anomaly detection on the BoT-IoT dataset, a ...
 
 ---
 
-### [Autler-townes energy-level engineering for high-quality all-microwave qubit gate](http://arxiv.org/abs/2611.07967v1)
-* **Date**: `2026-11-05` | **Authors**: Wan-Peng Gao, Xiao-Liang He, Zheng-Qi Niu et al. | [[PDF]](http://arxiv.org/pdf/2611.07967v1.pdf)
-* **Abstract**: High-fidelity entangling gates are essential for realizing large-scale fault-tolerant superconducting quantum computing, yet existing approaches are limited: frequency-tuning techniques induce decoherence, while all-microwave-driven schemes suffer the trade-off between gate speed and leakage rate. Here, we introduce an energy-level engineering tech...
+### [Exploring Variational Regularization of Krylov Subspaces](http://arxiv.org/abs/2611.09229v1)
+* **Date**: `2026-11-06` | **Authors**: Alexandre Perrin, Jérémie Messud, Sébastien Burdin et al. | [[PDF]](http://arxiv.org/pdf/2611.09229v1.pdf)
+* **Abstract**: Krylov subspace methods efficiently approximate extremal eigenstates and eigenvalues of many-body Hamiltonians, but non-orthogonal bases can suffer from ill-conditioning. This challenge is amplified in quantum computing, where direct state access and thus straightforward orthogonalization are unavailable. We investigate a variational Krylov-like fr...
