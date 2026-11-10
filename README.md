@@ -1,31 +1,25 @@
-# 🚀 Daily arXiv Tracker (November 09, 2026)
+# 🚀 Daily arXiv Tracker (November 10, 2026)
 
 > Focus: Quantum Chemistry / NISQ / VQE / Quantum Computing / QML / Electronic Structure
 
-### [Differentiable Digital Twins for Optimization, Calibration, and Characterization of Neutral-Atom- and Ion-based Quantum Computers](http://arxiv.org/abs/2611.09779v1)
-* **Date**: `2026-11-06` | **Authors**: Marco Rossignolo, Lorena C. Bianchet, Anurag Saha Roy et al. | [[PDF]](http://arxiv.org/pdf/2611.09779v1.pdf)
-* **Abstract**: Quantum technologies based on individually controlled atoms are among the most promising platforms for scalable quantum computing, owing to their favorable coherence properties and controllability. Nonetheless, achieving reliable and high-fidelity gate operations remains challenging due to the sensitivity of these systems to noise and hardware impe...
+### [The simulability frontiers of photonic quantum computing](http://arxiv.org/abs/2611.12876v1)
+* **Date**: `2026-11-09` | **Authors**: Jean Senellart, Benjamin Stott, Stephen Wein et al. | [[PDF]](http://arxiv.org/pdf/2611.12876v1.pdf)
+* **Abstract**: Estimates of when photonic devices outgrow classical simulation are hard to compare: even for single-photon boson sampling, quoted thresholds range from 50 to 98 photons, as they rest on different tasks and assumptions. We propose as a common unit the time a classical computer needs to draw one sample from the device's exact output distribution, up...
 
 ---
 
-### [Scalable Unitary State-Encoding for Generic Large Data](http://arxiv.org/abs/2611.09760v1)
-* **Date**: `2026-11-06` | **Authors**: Vittorio Pagni, Peter K. Schuhmacher, Michael Felderer et al. | [[PDF]](http://arxiv.org/pdf/2611.09760v1.pdf)
-* **Abstract**: Efficient encoding of data into quantum states remains a fundamental bottleneck in many quantum computing protocols, which would otherwise offer advantages over their classical counterparts. Here, we introduce deterministic and scalable amplitude-encoding methods with low two-qubit gate costs and tunable trade-offs between circuit depth and encodin...
+### [Modular and Looping Quantum Photonic Processing Unit for Quantum Computing](http://arxiv.org/abs/2611.12126v1)
+* **Date**: `2026-11-09` | **Authors**: Denis Stanev, Nicolò Spagnolo, Fabio Sciarrino | [[PDF]](http://arxiv.org/pdf/2611.12126v1.pdf)
+* **Abstract**: Photonic processors are emerging as promising platforms in the race towards the realization of practical universal quantum computers. Several architectures with universal capabilities have been proposed for their implementation via a photonic platform, each with their own set of benefits and drawbacks. In this work we propose an architecture for a ...
 
 ---
 
-### [Quantum Integration Software Suite For HPC-Quantum Computing Workflows](http://arxiv.org/abs/2611.09659v1)
-* **Date**: `2026-11-06` | **Authors**: Mateusz Meller, Joseph C. R. Thacker, Thomas W. Keal et al. | [[PDF]](http://arxiv.org/pdf/2611.09659v1.pdf)
-* **Abstract**: In this work, we focus on addressing challenges related to modelling the integration of conventional high-performance computing (HPC) and quantum computing (QC). We introduce the Quantum Assembly Compiler (QASC) for OpenQASM3.0 files. The compiler produces an executable that leverages the high-performance simulator QuEST to simulate quantum program...
+### [A Universal Fault-Tolerant Quantum Computing Architecture with Globally Driven Atom Arrays](http://arxiv.org/abs/2611.12098v1)
+* **Date**: `2026-11-09` | **Authors**: Zhihao Zhang, Shuaifan Cao, Xinyang Yu et al. | [[PDF]](http://arxiv.org/pdf/2611.12098v1.pdf)
+* **Abstract**: Scalable quantum computation requires reconciling programmability with simple, high-fidelity control. Here, we propose a universal fault-tolerant architecture using globally driven dual-species atom arrays. In a hybrid neutral-atom system, interspecies Rydberg interactions enable qubit addressability without locally addressed quantum gates. We cons...
 
 ---
 
-### [Evaluation of Quantum Machine Learning Models for Network Anomaly Detection](http://arxiv.org/abs/2611.09253v1)
-* **Date**: `2026-11-06` | **Authors**: Swathi Chandrasekhar, Shiva Raj Pokhrel | [[PDF]](http://arxiv.org/pdf/2611.09253v1.pdf)
-* **Abstract**: The proliferation of Internet-connected devices has intensified the risk of large-scale network intrusions, necessitating more advanced detection methodologies for the post quantum era. This work presents, to the best of our knowledge, a com- prehensive investigation of quantum machine learning (QML) for anomaly detection on the BoT-IoT dataset, a ...
-
----
-
-### [Exploring Variational Regularization of Krylov Subspaces](http://arxiv.org/abs/2611.09229v1)
-* **Date**: `2026-11-06` | **Authors**: Alexandre Perrin, Jérémie Messud, Sébastien Burdin et al. | [[PDF]](http://arxiv.org/pdf/2611.09229v1.pdf)
-* **Abstract**: Krylov subspace methods efficiently approximate extremal eigenstates and eigenvalues of many-body Hamiltonians, but non-orthogonal bases can suffer from ill-conditioning. This challenge is amplified in quantum computing, where direct state access and thus straightforward orthogonalization are unavailable. We investigate a variational Krylov-like fr...
+### [Extending the reach of real-space real-time TDDFT: new developments in the Octopus code](http://arxiv.org/abs/2611.12018v1)
+* **Date**: `2026-11-09` | **Authors**: Nicolas Tancogne-Dejean, Martin Lüders, Esra Ilke Albar et al. | [[PDF]](http://arxiv.org/pdf/2611.12018v1.pdf)
+* **Abstract**: Octopus is an open-source package implementing time-dependent density functional theory in a real-space, real-time formulation. Here we report on the developments since our previous contribution to the Special Topic Issue on Electronic Structure Software [J. Chem. Phys. 152, 124119 (2020)]. New exchange-correlation functionals extend the range of s...
