@@ -1,25 +1,37 @@
-# 🚀 Daily arXiv Tracker (November 10, 2026)
+# 🚀 Daily arXiv Tracker (November 11, 2026)
 
 > Focus: Quantum Chemistry / NISQ / VQE / Quantum Computing / QML / Electronic Structure
 
-### [The simulability frontiers of photonic quantum computing](http://arxiv.org/abs/2611.12876v1)
-* **Date**: `2026-11-09` | **Authors**: Jean Senellart, Benjamin Stott, Stephen Wein et al. | [[PDF]](http://arxiv.org/pdf/2611.12876v1.pdf)
-* **Abstract**: Estimates of when photonic devices outgrow classical simulation are hard to compare: even for single-photon boson sampling, quoted thresholds range from 50 to 98 photons, as they rest on different tasks and assumptions. We propose as a common unit the time a classical computer needs to draw one sample from the device's exact output distribution, up...
+### [Quantum-Assisted Counterfactual Regret Minimization for Bounded-Payoff Imperfect-Information Games](http://arxiv.org/abs/2611.14182v1)
+* **Date**: `2026-11-10` | **Authors**: Gabriel Maresch, Erik Schulze, Jnan Yalla | [[PDF]](http://arxiv.org/pdf/2611.14182v1.pdf)
+* **Abstract**: Imperfect-information games with a graded-reward structure present significant computational challenges for equilibrium computation, since the payoff expectations must be estimated across exponentially large strategy spaces. Counterfactual Regret Minimization over the years has proven effective for approximating Nash equilibria, but Monte Carlo var...
 
 ---
 
-### [Modular and Looping Quantum Photonic Processing Unit for Quantum Computing](http://arxiv.org/abs/2611.12126v1)
-* **Date**: `2026-11-09` | **Authors**: Denis Stanev, Nicolò Spagnolo, Fabio Sciarrino | [[PDF]](http://arxiv.org/pdf/2611.12126v1.pdf)
-* **Abstract**: Photonic processors are emerging as promising platforms in the race towards the realization of practical universal quantum computers. Several architectures with universal capabilities have been proposed for their implementation via a photonic platform, each with their own set of benefits and drawbacks. In this work we propose an architecture for a ...
+### [Cross-Platform Benchmarking of GHZ-State Generation in Quantum Processors via Cloud Services](http://arxiv.org/abs/2611.14114v1)
+* **Date**: `2026-11-10` | **Authors**: Sergio Hernández, Unai Aseguinolaza, David Aguirre et al. | [[PDF]](http://arxiv.org/pdf/2611.14114v1.pdf)
+* **Abstract**: Quantum computing has rapidly evolved into a diverse ecosystem of hardware platforms that differ in their underlying technologies and operational characteristics. Consequently, benchmarking has become essential for identifying the strengths of quantum processors, comparing their performance, and enabling informed decisions when selecting the most a...
 
 ---
 
-### [A Universal Fault-Tolerant Quantum Computing Architecture with Globally Driven Atom Arrays](http://arxiv.org/abs/2611.12098v1)
-* **Date**: `2026-11-09` | **Authors**: Zhihao Zhang, Shuaifan Cao, Xinyang Yu et al. | [[PDF]](http://arxiv.org/pdf/2611.12098v1.pdf)
-* **Abstract**: Scalable quantum computation requires reconciling programmability with simple, high-fidelity control. Here, we propose a universal fault-tolerant architecture using globally driven dual-species atom arrays. In a hybrid neutral-atom system, interspecies Rydberg interactions enable qubit addressability without locally addressed quantum gates. We cons...
+### [Dynamical GKP codes](http://arxiv.org/abs/2611.14081v1)
+* **Date**: `2026-11-10` | **Authors**: Jonathan Pelletier, Baptiste Royer | [[PDF]](http://arxiv.org/pdf/2611.14081v1.pdf)
+* **Abstract**: Dynamical codes protect quantum information with sequences of measurements, generalizing the stabilizer formalism of static codes. However, the dynamical formalism has been developed exclusively for qubit systems. While Gottesman-Kitaev-Preskill (GKP) codes are promising candidates for quantum computing that encode qubits in the continuous phase sp...
 
 ---
 
-### [Extending the reach of real-space real-time TDDFT: new developments in the Octopus code](http://arxiv.org/abs/2611.12018v1)
-* **Date**: `2026-11-09` | **Authors**: Nicolas Tancogne-Dejean, Martin Lüders, Esra Ilke Albar et al. | [[PDF]](http://arxiv.org/pdf/2611.12018v1.pdf)
-* **Abstract**: Octopus is an open-source package implementing time-dependent density functional theory in a real-space, real-time formulation. Here we report on the developments since our previous contribution to the Special Topic Issue on Electronic Structure Software [J. Chem. Phys. 152, 124119 (2020)]. New exchange-correlation functionals extend the range of s...
+### [Pool-free, residual-triggered ansatz growth for variational imaginary-time evolution: when a fixed operator order beats adaptive screening](http://arxiv.org/abs/2611.13998v1)
+* **Date**: `2026-11-10` | **Authors**: Yu-Hao Chen, Renata Wong | [[PDF]](http://arxiv.org/pdf/2611.13998v1.pdf)
+* **Abstract**: Adaptive variational algorithms such as ADAPT-VQE and AVQITE screen an operator pool at every growth step, and ADAPT-VQE also re-optimizes all parameters. We study a pool-free alternative for variational imaginary-time evolution (VITE). The layers are fixed in advance by nested commutators of the Hamiltonian, grouped by symmetry and particle number...
+
+---
+
+### [Adaptive Policy-Guided Error Mitigation (APGEM): A Unified Learning-Based Framework for Noise Resilience in Quantum Machine Learning](http://arxiv.org/abs/2611.13815v1)
+* **Date**: `2026-11-10` | **Authors**: Bisma Majid, Shabir Ahmad Sofi, Mir Mohammad Yousuf | [[PDF]](http://arxiv.org/pdf/2611.13815v1.pdf)
+* **Abstract**: Error mitigation stands between variational quantum algorithms and useful results on today's noisy hardware, yet in practice a mitigation method is usually chosen once, by hand, and applied unchanged for the life of an experiment. This is a poor fit for quantum machine learning (QML), where the circuit and the noise drift as training proceeds, so t...
+
+---
+
+### [Machine-learning decoders for fusion-based quantum computing in real time](http://arxiv.org/abs/2611.13630v1)
+* **Date**: `2026-11-10` | **Authors**: Daniel Barter, Jacob C. Bridgeman, Chris Dawson et al. | [[PDF]](http://arxiv.org/pdf/2611.13630v1.pdf)
+* **Abstract**: Fault-tolerant quantum computation requires decoders that combine accuracy, throughput, low latency, and scalability to large numbers of physical qubits. In photonic fusion-based architectures, erasures from photon loss and probabilistic fusion measurements are a dominant error mechanism, motivating decoders that remain accurate at high erasure rat...
