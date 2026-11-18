@@ -1,43 +1,37 @@
-# 🚀 Daily arXiv Tracker (November 17, 2026)
+# 🚀 Daily arXiv Tracker (November 18, 2026)
 
 > Focus: Quantum Chemistry / NISQ / VQE / Quantum Computing / QML / Electronic Structure
 
-### [Benchmarking memory and nonlinear processing capacity of quantum recurrent neural networks for time series prediction](http://arxiv.org/abs/2611.21552v1)
-* **Date**: `2026-11-16` | **Authors**: José Daniel Viqueira, Andrés Gómez, David Mera | [[PDF]](http://arxiv.org/pdf/2611.21552v1.pdf)
-* **Abstract**: Quantum machine learning has emerged as a promising approach to time series prediction. While quantum reservoir computing has been widely explored for this setting, variational quantum models tailored to sequential data remain comparatively understudied, largely because they are difficult to train. In this work, we present a rigorous benchmark of v...
+### [Nonlinearity-preserving quantum simulation of flows in the early fault-tolerant regime](http://arxiv.org/abs/2611.23196v1)
+* **Date**: `2026-11-17` | **Authors**: Hansol Noh, Unam Oh, Sangkyu Baek et al. | [[PDF]](http://arxiv.org/pdf/2611.23196v1.pdf)
+* **Abstract**: Ensemble prediction of nonlinear dynamics propagates a probability density whose linear transport equation retains the nonlinear drift, but grid-dependent circuit costs leave end-to-end feasibility in early fault-tolerant quantum computing unresolved. We couple polynomial reduced-order models fitted by sparse identification of nonlinear dynamics to...
 
 ---
 
-### [Variational Monte Carlo for Quantum Excited States via Nested Low-Rank Approximation](http://arxiv.org/abs/2611.21434v1)
-* **Date**: `2026-11-16` | **Authors**: Minchan Jeong, J. Jon Ryu, Se-Young Yun et al. | [[PDF]](http://arxiv.org/pdf/2611.21434v1.pdf)
-* **Abstract**: The electronic Schrödinger equation encodes a molecule's electronic structure and quantum properties, but solving it scales exponentially with the number of electrons. Solving this equation with neural-network variational Monte Carlo (VMC) has reached chemical accuracy on the ground state of small molecules; extending this success to excited states...
+### [Performance of Fusion-Based Quantum Computing with Imperfect Photon Indistinguishability](http://arxiv.org/abs/2611.23083v1)
+* **Date**: `2026-11-17` | **Authors**: Katia Hakem, Grégoire de Gliniasty, Nathan Shettell et al. | [[PDF]](http://arxiv.org/pdf/2611.23083v1.pdf)
+* **Abstract**: Fusion-based quantum computation (FBQC) is a promising route to fault-tolerant photonic quantum computing, connecting small entangled resource states through linear-optical fusion measurements. While logical encoding can substantially improve resilience to photon loss, whether these benefits extend to other noise remain an open question. In this wo...
 
 ---
 
-### [SCOPE: A Physical Execution Latency-Guided Quantum Circuit Compilation Framework](http://arxiv.org/abs/2611.21270v1)
-* **Date**: `2026-11-16` | **Authors**: Bolin Zhang, Zhiyuan Zhang, Yongguang Lv et al. | [[PDF]](http://arxiv.org/pdf/2611.21270v1.pdf)
-* **Abstract**: Quantum computing requires compilers to translate algorithms represented in the quantum circuit model into unitary operations supported by physical devices. Limited coherence time makes physical execution latency an important compilation objective. Gate fusion can shorten pulses, but gate count and depth do not capture fused targets' control demand...
+### [Born for the Task: Rethinking Quantum Chemistry with Foresighted Agentic Computing](http://arxiv.org/abs/2611.22897v1)
+* **Date**: `2026-11-17` | **Authors**: Haozhi Han, Junjie Yang, Ruge Zhang et al. | [[PDF]](http://arxiv.org/pdf/2611.22897v1.pdf)
+* **Abstract**: Quantum chemistry relies on general-purpose software, whose generality leaves many large-scale calculations beyond practical resource budgets. Coding agents make task-specific programs cheap to write, but not efficient ones easy to find: whether a computational strategy is accurate and fast enough becomes clear only after it actually runs at the ta...
 
 ---
 
-### [A boson representation of the electronic structure calculation based on the quantum Krylov subspace algorithm](http://arxiv.org/abs/2611.21242v1)
-* **Date**: `2026-11-16` | **Authors**: Hiroki Katow, Hisao Nakamura | [[PDF]](http://arxiv.org/pdf/2611.21242v1.pdf)
-* **Abstract**: Quantum calculations are expected to broaden the range of strongly correlated phenomena in solids accessible to first-principles calculations. The quantum Krylov diagonalization method, or in a broader sense, the quantum subspace expansion method (QSE) offers an advantage over other variational methods in terms of numerical stability. In this work,...
+### [Depth-Dependent Collapse and Warm-Start Limits of a Symmetry-Preserving VQE for the J$_1$--J$_2$ Heisenberg Ring](http://arxiv.org/abs/2611.22810v1)
+* **Date**: `2026-11-17` | **Authors**: Soumyadip Sahoo, Sahinur Reja | [[PDF]](http://arxiv.org/pdf/2611.22810v1.pdf)
+* **Abstract**: Increasing circuit depth is expected to improve a variational quantum eigensolver (VQE). We show that this expectation can fail, and that curing the failure does not guarantee the exact ground state. We study a symmetry-preserving ansatz of SingleExcitationMinus gates, started from the Néel state, on the frustrated spin-$1/2$ $J_1$--$J_2$ Heisenber...
 
 ---
 
-### [Specifying & Verifying Quantum Error-Correcting Codes](http://arxiv.org/abs/2611.21236v1)
-* **Date**: `2026-11-16` | **Authors**: Stavan Jain, Nithin Raveendran, Aws Albarghouthi | [[PDF]](http://arxiv.org/pdf/2611.21236v1.pdf)
-* **Abstract**: Building quantum computers is challenging due to the noise that affects qubits. Quantum error correction tackles noise by encoding information in quantum error-correcting (QEC) codes. These codes are often complex, increasingly found by computational search, presented in diverse formalisms with informal arguments, and hard to reason about algorithm...
+### [Double-Bracket Quantum Algorithms for Preparing Multiple Excited States](http://arxiv.org/abs/2611.22774v1)
+* **Date**: `2026-11-17` | **Authors**: Salahuddin Abdul Rahman, Özkan Karabacak, Rafal Wisniewski | [[PDF]](http://arxiv.org/pdf/2611.22774v1.pdf)
+* **Abstract**: Many problems in quantum chemistry, many-body physics, and optimization require excited states of a Hamiltonian. Double-bracket quantum algorithms compile circuits recursively from evolutions under the Hamiltonian and a second operator, without a parameterized ansatz. They have been proposed for several tasks, such as diagonalization and the prepar...
 
 ---
 
-### [Stabilizer-Restricted Antidistinguishability in Quantum Computation with Magic States](http://arxiv.org/abs/2611.21123v1)
-* **Date**: `2026-11-16` | **Authors**: Selman Ipek | [[PDF]](http://arxiv.org/pdf/2611.21123v1.pdf)
-* **Abstract**: An antidistinguishing measurement for a family of preparations excludes at least one preparation for every possible outcome, constraining 'classical' representations of these processes, known as ontological models. We develop this connection within quantum computing with magic states (QCM), a universal model of quantum computation. Our construction...
-
----
-
-### [Closing the loop on memory: accurate, shallow and transferable decoding of quantum LDPC codes](http://arxiv.org/abs/2611.21086v1)
-* **Date**: `2026-11-16` | **Authors**: Zhou You, Ying Li, Xiao Yuan et al. | [[PDF]](http://arxiv.org/pdf/2611.21086v1.pdf)
-* **Abstract**: Quantum low-density parity-check (qLDPC) codes have attracted interest for fault-tolerant quantum computing because their high-rate constructions offer a route to reduced qubit overhead. Realizing this potential requires reliable decoding. Belief propagation (BP) forms the basis of many qLDPC decoders, but can fail to converge under circuit-level n...
+### [Collisional lineshapes of an N$_2$-perturbed electronic transition in O$_2$ from first principles of quantum theory validated by accurate experimental spectra](http://arxiv.org/abs/2611.22649v1)
+* **Date**: `2026-11-17` | **Authors**: Maciej Gancewski, Erin Adkins, Hubert Jóźwiak et al. | [[PDF]](http://arxiv.org/pdf/2611.22649v1.pdf)
+* **Abstract**: We demonstrate the feasibility of predicting the lineshape of an electronic molecular transition collisionally perturbed by another molecule from first principles of quantum mechanics. We consider an N$_2$-perturbed O$_2$ $A$-band transition, which is relevant to spectroscopic observations in Earth's atmosphere. This approach simultaneously incorpo...
