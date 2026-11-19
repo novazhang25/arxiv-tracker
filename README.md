@@ -1,37 +1,43 @@
-# 🚀 Daily arXiv Tracker (November 18, 2026)
+# 🚀 Daily arXiv Tracker (November 19, 2026)
 
 > Focus: Quantum Chemistry / NISQ / VQE / Quantum Computing / QML / Electronic Structure
 
-### [Nonlinearity-preserving quantum simulation of flows in the early fault-tolerant regime](http://arxiv.org/abs/2611.23196v1)
-* **Date**: `2026-11-17` | **Authors**: Hansol Noh, Unam Oh, Sangkyu Baek et al. | [[PDF]](http://arxiv.org/pdf/2611.23196v1.pdf)
-* **Abstract**: Ensemble prediction of nonlinear dynamics propagates a probability density whose linear transport equation retains the nonlinear drift, but grid-dependent circuit costs leave end-to-end feasibility in early fault-tolerant quantum computing unresolved. We couple polynomial reduced-order models fitted by sparse identification of nonlinear dynamics to...
+### [Soft Mixture of Quantum Experts for Hybrid Quantum-Classical Learning](http://arxiv.org/abs/2611.24798v1)
+* **Date**: `2026-11-18` | **Authors**: Valeria Repetto, Romina D'Aurizio, Piero Farinelli | [[PDF]](http://arxiv.org/pdf/2611.24798v1.pdf)
+* **Abstract**: Quantum Machine Learning (QML) has attracted increasing interest as a possible route to construct feature representations that are difficult to reproduce with classical models. However, near-term QML architectures based on trainable parametrized quantum circuits remain affected by limited hardware resources, noise, and severe optimization difficult...
 
 ---
 
-### [Performance of Fusion-Based Quantum Computing with Imperfect Photon Indistinguishability](http://arxiv.org/abs/2611.23083v1)
-* **Date**: `2026-11-17` | **Authors**: Katia Hakem, Grégoire de Gliniasty, Nathan Shettell et al. | [[PDF]](http://arxiv.org/pdf/2611.23083v1.pdf)
-* **Abstract**: Fusion-based quantum computation (FBQC) is a promising route to fault-tolerant photonic quantum computing, connecting small entangled resource states through linear-optical fusion measurements. While logical encoding can substantially improve resilience to photon loss, whether these benefits extend to other noise remain an open question. In this wo...
+### [GenerativeQC: A Generative, GPU-Accelerated Quantum Chemistry Program](http://arxiv.org/abs/2611.24744v1)
+* **Date**: `2026-11-18` | **Authors**: Shengrui Xu, Longhan Shen, Wenxi Zhai et al. | [[PDF]](http://arxiv.org/pdf/2611.24744v1.pdf)
+* **Abstract**: GenerativeQC is an open-source, GPU-accelerated quantum chemistry program that computes energies and analytic nuclear forces from Hartree-Fock (HF) and density functional theory (DFT) to closed-shell density-fitted CCSD(T) and an MP2-assisted CCSD(T)/complete-basis-set (CBS) composite. Its scientific compiler translates symbolic equations into C++ ...
 
 ---
 
-### [Born for the Task: Rethinking Quantum Chemistry with Foresighted Agentic Computing](http://arxiv.org/abs/2611.22897v1)
-* **Date**: `2026-11-17` | **Authors**: Haozhi Han, Junjie Yang, Ruge Zhang et al. | [[PDF]](http://arxiv.org/pdf/2611.22897v1.pdf)
-* **Abstract**: Quantum chemistry relies on general-purpose software, whose generality leaves many large-scale calculations beyond practical resource budgets. Coding agents make task-specific programs cheap to write, but not efficient ones easy to find: whether a computational strategy is accurate and fast enough becomes clear only after it actually runs at the ta...
+### [Orbital-weighted learning for transition metal complexes](http://arxiv.org/abs/2611.24421v1)
+* **Date**: `2026-11-18` | **Authors**: Gabriel Klassen, Guido Falk von Rudorff | [[PDF]](http://arxiv.org/pdf/2611.24421v1.pdf)
+* **Abstract**: Frontier orbital energies are key to the description of molecular light-matter interaction and pose a challenge both for electronic structure calculations and for machine learning approaches, especially for transition metal complexes (TMC). These are highly relevant since the gap between the highest occupied molecular orbital (HOMO) and the lowest ...
 
 ---
 
-### [Depth-Dependent Collapse and Warm-Start Limits of a Symmetry-Preserving VQE for the J$_1$--J$_2$ Heisenberg Ring](http://arxiv.org/abs/2611.22810v1)
-* **Date**: `2026-11-17` | **Authors**: Soumyadip Sahoo, Sahinur Reja | [[PDF]](http://arxiv.org/pdf/2611.22810v1.pdf)
-* **Abstract**: Increasing circuit depth is expected to improve a variational quantum eigensolver (VQE). We show that this expectation can fail, and that curing the failure does not guarantee the exact ground state. We study a symmetry-preserving ansatz of SingleExcitationMinus gates, started from the Néel state, on the frustrated spin-$1/2$ $J_1$--$J_2$ Heisenber...
+### [Spontaneous emission of atomic systems near metallic and semiconducting atomic chains](http://arxiv.org/abs/2611.24358v1)
+* **Date**: `2026-11-18` | **Authors**: Abhishek Ghosh, David Dams, Antton Babaze et al. | [[PDF]](http://arxiv.org/pdf/2611.24358v1.pdf)
+* **Abstract**: We investigate the spontaneous emission of a quantum emitter placed near finite atomic chains described by the Su-Schrieffer-Heeger model. By tuning the chain from a metallic to a semiconducting character through dimerization, we analyze how the electronic structure of an atomic-scale scatterer, together with the illumination profile, determines th...
 
 ---
 
-### [Double-Bracket Quantum Algorithms for Preparing Multiple Excited States](http://arxiv.org/abs/2611.22774v1)
-* **Date**: `2026-11-17` | **Authors**: Salahuddin Abdul Rahman, Özkan Karabacak, Rafal Wisniewski | [[PDF]](http://arxiv.org/pdf/2611.22774v1.pdf)
-* **Abstract**: Many problems in quantum chemistry, many-body physics, and optimization require excited states of a Hamiltonian. Double-bracket quantum algorithms compile circuits recursively from evolutions under the Hamiltonian and a second operator, without a parameterized ansatz. They have been proposed for several tasks, such as diagonalization and the prepar...
+### [QuFrame: Pauli Frame Tracking for Fault-Tolerant Quantum Control](http://arxiv.org/abs/2611.24328v1)
+* **Date**: `2026-11-18` | **Authors**: Aleksandra Świerkowska, Ilgaz Er, Emmanouil Giortamis et al. | [[PDF]](http://arxiv.org/pdf/2611.24328v1.pdf)
+* **Abstract**: Fault-tolerant quantum computing requires continuous quantum error correction (QEC) to suppress physical noise. While Clifford-only workloads can defer corrections to software post-processing, universal computation breaks this paradigm: executing non-Clifford gates via magic-state gadgets introduces hard, real-time control-flow dependencies on erro...
 
 ---
 
-### [Collisional lineshapes of an N$_2$-perturbed electronic transition in O$_2$ from first principles of quantum theory validated by accurate experimental spectra](http://arxiv.org/abs/2611.22649v1)
-* **Date**: `2026-11-17` | **Authors**: Maciej Gancewski, Erin Adkins, Hubert Jóźwiak et al. | [[PDF]](http://arxiv.org/pdf/2611.22649v1.pdf)
-* **Abstract**: We demonstrate the feasibility of predicting the lineshape of an electronic molecular transition collisionally perturbed by another molecule from first principles of quantum mechanics. We consider an N$_2$-perturbed O$_2$ $A$-band transition, which is relevant to spectroscopic observations in Earth's atmosphere. This approach simultaneously incorpo...
+### [Beyond Corpus-Driven Imitation: Evolving Musical Mindsets in the Agentic Orchestra via Quantum Reinforcement Learning](http://arxiv.org/abs/2611.24290v1)
+* **Date**: `2026-11-18` | **Authors**: Eduardo Reck Miranda, Moein Fahmideh Vatandoost | [[PDF]](http://arxiv.org/pdf/2611.24290v1.pdf)
+* **Abstract**: This paper presents a framework for computer-aided music composition and performance based on quantum reinforcement learning and multi-agent interaction. We introduce the agentic orchestra, where musical agents evolve distinct mindsets through trial-and-error engagement with a musical environment, rather than through training on large datasets. The...
+
+---
+
+### [Topological Quantum Reservoir Computing](http://arxiv.org/abs/2611.24013v1)
+* **Date**: `2026-11-18` | **Authors**: Zhi-Lei Zhang, Lianxiang Cui, C. P. Sun et al. | [[PDF]](http://arxiv.org/pdf/2611.24013v1.pdf)
+* **Abstract**: Scaling universal quantum computation and implementing quantum machine learning with protected logical qubits remain challenging. To harness the computational potential of existing fault-tolerant quantum platforms, we introduce topological quantum reservoir computing, a novel approach using protected degrees of freedom for storage and the host syst...
