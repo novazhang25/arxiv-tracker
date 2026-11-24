@@ -1,31 +1,31 @@
-# 🚀 Daily arXiv Tracker (November 23, 2026)
+# 🚀 Daily arXiv Tracker (November 24, 2026)
 
 > Focus: Quantum Chemistry / NISQ / VQE / Quantum Computing / QML / Electronic Structure
 
-### [Tackling Many-Body Coulomb Singularity by Randomization](http://arxiv.org/abs/2611.27851v1)
-* **Date**: `2026-11-20` | **Authors**: Di Fang, Wook Yoon | [[PDF]](http://arxiv.org/pdf/2611.27851v1.pdf)
-* **Abstract**: Many-body Coulomb dynamics is central to quantum chemistry and molecular simulation, yet the Coulomb singularity undermines both the standard error analysis and performance of product formulas. Even for the simple hydrogen ground state, the celebrated Trotter formulas converge more slowly than their nominal order, and going to higher order does not...
+### [Solving the Traveling Salesman Problem Using Quantum Devices: QUBO and HOBO Formulations](http://arxiv.org/abs/2611.30972v1)
+* **Date**: `2026-11-23` | **Authors**: G. V. Shuvalov, E. N. Krivtsova, A. V. Kapranov et al. | [[PDF]](http://arxiv.org/pdf/2611.30972v1.pdf)
+* **Abstract**: The traveling salesman problem (TSP) forms the foundation for many logistics and optimization tasks. At the same time, this problem is NP-hard and requires significant computational resources. Quantum computing promises to substantially accelerate computations or increase solution accuracy. The TSP can be conveniently mapped onto the quadratic unco...
 
 ---
 
-### [Autonomous quantum machine learning via Riemannian gradient-based optimization](http://arxiv.org/abs/2611.27815v1)
-* **Date**: `2026-11-20` | **Authors**: Kasidit Srimahajariyapong, Thiparat Chotibut, Suwannachad Suwannajitt et al. | [[PDF]](http://arxiv.org/pdf/2611.27815v1.pdf)
-* **Abstract**: Quantum machine learning models typically rely on repeated quantum measurements and classical optimization during training, making the quantum-to-classical information-extraction process a fundamental bottleneck for scalability. We propose a framework for autonomous self-training quantum machine learning, based on Riemannian gradient optimization, ...
+### [Optimizing Locally Equivalent Graph States in Quantum Computing Using Greedy Best-First Search](http://arxiv.org/abs/2611.30738v1)
+* **Date**: `2026-11-23` | **Authors**: Sora Harada, Ryo Kuroiwa, Shin Nishio et al. | [[PDF]](http://arxiv.org/pdf/2611.30738v1.pdf)
+* **Abstract**: In measurement-based quantum computation and quantum repeater networks, graph-structured quantum states called graph states play a central role as an essential resource. In a graph state, each vertex corresponds to a qubit, and each edge is prepared by applying one controlled-Z (CZ) gate. Local complementation, which toggles adjacencies among the n...
 
 ---
 
-### [Quantum-Informed Regularized Poisson Learning for Graph-Based Semi-Supervised Classification](http://arxiv.org/abs/2611.27609v1)
-* **Date**: `2026-11-20` | **Authors**: Hamed Gholipour, Farid Bozorgnia, Hamzeh Mohammadigheymasi et al. | [[PDF]](http://arxiv.org/pdf/2611.27609v1.pdf)
-* **Abstract**: We introduce IPQSSL, a quantum-informed regularized Poisson framework for graph-based semi-supervised classification under scarce labels. Local graph feature contexts are QR factorized, lifted to unitary encodings, and processed by a shared variational circuit whose measurements yield node wise diagonal weights that stabilize a symmetrized Poisson ...
+### [THeatA: Transport- and Heating-aware QEC simulation with Cooling Strategies for QCCD Trapped-Ion Systems](http://arxiv.org/abs/2611.30676v1)
+* **Date**: `2026-11-23` | **Authors**: Eitaro Ishikawa, Noah Hirai, Koichiro Miyanishi et al. | [[PDF]](http://arxiv.org/pdf/2611.30676v1.pdf)
+* **Abstract**: The quantum charge-coupled device (QCCD) architecture is a promising approach to scalable trapped-ion quantum computing, enabling flexible qubit interactions by transporting ions between dedicated trap zones. Programs for such systems require operations beyond conventional circuit primitives: ion shuttling, physical SWAPs, trap splitting and mergin...
 
 ---
 
-### [Practical insights into controlling exponential concentration in quantum machine learning](http://arxiv.org/abs/2611.27486v1)
-* **Date**: `2026-11-20` | **Authors**: Fernando Mondragon-Sampedro, Diego Alvarez-Estevez | [[PDF]](http://arxiv.org/pdf/2611.27486v1.pdf)
-* **Abstract**: Quantum Machine Learning (QML) models are often limited by exponential concentration, where quantum observables become insensitive to input variations as system size increases. In this work, we provide a comparative empirical study of this phenomenon across Fidelity Quantum Kernels (FQK), Projected Quantum Kernels (PQK), and Quantum Extreme Learnin...
+### [Confidence-Aware Discriminative Readout of Neutral-Atom Arrays](http://arxiv.org/abs/2611.30421v1)
+* **Date**: `2026-11-23` | **Authors**: Jaeick Bae, Kangheun Kim, Yunheung Song et al. | [[PDF]](http://arxiv.org/pdf/2611.30421v1.pdf)
+* **Abstract**: Fast and reliable detection is a central requirement for neutral atom quantum computers, yet fluorescence imaging remains a limiting step for rapid experimental cycling, large-scale array operation, and quantum-error-correction protocols. In this work, we demonstrate confidence-aware readout of $^{171}\mathrm{Yb}$ atoms in optical tweezers using a ...
 
 ---
 
-### [Quantum computing for gearing down complex many-fermion problems](http://arxiv.org/abs/2611.27402v1)
-* **Date**: `2026-11-20` | **Authors**: Weijie Du, Filippo Fornetti, James P. Vary | [[PDF]](http://arxiv.org/pdf/2611.27402v1.pdf)
-* **Abstract**: Quantum computing unlocks exciting opportunities to extend first-principles calculations of quantum many-body systems beyond classical computing limits. Despite advances in algorithms and proof-of-principle experiments, large-scale {\it ab initio} calculations on noisy intermediate-scale quantum (NISQ) devices remain challenging. We introduce a qua...
+### [Observable-Level Expressivity in Fixed-Readout Quantum Neural Networks](http://arxiv.org/abs/2611.30175v1)
+* **Date**: `2026-11-23` | **Authors**: Iqra Bashir, Yuanfeng Wang, Mingda Huang et al. | [[PDF]](http://arxiv.org/pdf/2611.30175v1.pdf)
+* **Abstract**: A central question in quantum machine learning is which functions of an input state a model can represent when its measurement is fixed by hardware or by experimental design. We address this question for quantum neural networks with a fixed readout observable, where the trainable pre-measurement dynamics determine the effective observable in the He...
